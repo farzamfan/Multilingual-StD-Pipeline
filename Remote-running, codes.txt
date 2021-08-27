@@ -1,0 +1,12 @@
+# port forwarding
+ssh -L 5555:localhost:5555 farzam@vu.amcat.nl -t ssh -L 5555:localhost:5555 farzam@vu.ccs-amsterdam.org
+
+ssh farzam@vu.amcat.nl
+ssh farzam@vu.ccs-amsterdam.org
+Then enter a city name
+
+conda activate XCS224N
+jupyter notebook --no-browser --port=5555
+
+
+
