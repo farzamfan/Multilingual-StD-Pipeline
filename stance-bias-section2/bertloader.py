@@ -19,7 +19,8 @@ FOLDER_NAME = {"16se" : "16semeval",
                 "17re": "17rumoureval",
                 "19re": "19rumoureval",
                 "mt1" : "mt",
-                "mt2" : "mt"
+                "mt2" : "mt",
+                "PImPo":"PImPo"
             }[params.dataset_name]
 
 DATA_PATH = os.path.join(basepath, 'data', FOLDER_NAME, 'data.json')
@@ -33,7 +34,8 @@ class StanceDataset:
                             "17re": {'deny':    0, 'support':   1, 'comment': 2, 'query':  3},
                             "19re": {'deny':    0, 'support':   1, 'comment': 2, 'query':  3},
                             "mt1":  {'AGAINST': 0, 'NONE':      1, 'FAVOR':   2},
-                            "mt2":  {'AGAINST': 0, 'NONE':      1, 'FAVOR':   2}
+                            "mt2":  {'AGAINST': 0, 'NONE':      1, 'FAVOR':   2},
+                            "PImPo": {'AGAINST': 0, 'NONE': 1, 'FAVOR': 2}
                     }[params.dataset_name]
         self.id2stance = {v: k for k,v in self.stance2id.items()}
         print(self.stance2id, "||", self.id2stance)
@@ -129,7 +131,7 @@ class StanceDataset:
         dataset = []
         if params.dataset_name == "enc":
             criterion_weights = np.zeros(2) + 0.0000001 # 2 labels
-        elif params.dataset_name in ["16se", "mt1", "mt2"]:
+        elif params.dataset_name in ["16se", "mt1", "mt2", "PImPo"]:
             criterion_weights = np.zeros(3) + 0.0000001 # 3 labels
         else:
             criterion_weights = np.zeros(4) + 0.0000001 # 4 labels 
