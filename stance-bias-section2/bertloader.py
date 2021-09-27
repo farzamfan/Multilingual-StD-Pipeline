@@ -60,7 +60,7 @@ class StanceDataset:
             self.eval_dataset, _ = self.batched_dataset(eval_set)
 
         # self.criterion_weights = torch.tensor(self.criterion_weights.tolist()).to(params.device)
-        # print("Training loss weighing = ", self.criterion_weights)
+        print("Training loss weighing = ", self.criterion_weights)
 
     def cross_valiation_split(self, train):
         assert params.test_mode != True, "Cross Validation cannot be done while testing"
@@ -134,7 +134,7 @@ class StanceDataset:
         elif params.dataset_name in ["16se", "mt1", "mt2", "PImPo"]:
             criterion_weights = np.zeros(3) + 0.0000001 # 3 labels
         else:
-            criterion_weights = np.zeros(4) + 0.0000001 # 4 labels 
+            criterion_weights = np.zeros(4) + 0.0000001 # 4 labels
 
         idx = 0
         num_data = len(unbatched)
@@ -142,7 +142,7 @@ class StanceDataset:
         while idx < num_data:
             batch_text = []
             stances = []
-            
+
             for single_tweet in unbatched[idx:min(idx+params.batch_size, num_data)]:
                 if params.dataset_name == "mt1":
                     this_stance_ids = self.stance2id[single_tweet["stance"][0]]
@@ -166,7 +166,7 @@ class StanceDataset:
                         this_target = single_tweet["target"]
                 batch_text.append([this_tweet, this_target])
 
-            tokenized_batch = self.bert_tokenizer.batch_encode_plus(batch_text, pad_to_max_length=True,
+            tokenized_batch = self.bert_tokenizer.batch_encode_plus(batch_text, padding='longest',
                                                                 return_tensors="pt", return_token_type_ids=True)
 
             texts = tokenized_batch['input_ids'].to(params.device)
@@ -176,9 +176,10 @@ class StanceDataset:
 
             global MAX_LEN
             MAX_LEN = max(MAX_LEN, texts.shape[1])
-            # print("\n", stances, stances.size())
-            # print("\n", pad_masks[0, :], pad_masks.size())
-            # print("\n", segment_embed[0, :], segment_embed.size())
+
+            print("\n", stances, stances.size())
+            print("\n", pad_masks[0, :], pad_masks.size())
+            print("\n", segment_embed[0, :], segment_embed.size())
 
             b = params.batch_size if (idx + params.batch_size) < num_data else (num_data - idx)
             l = texts.size(1)
@@ -199,9 +200,9 @@ if __name__ == "__main__":
     dataset = StanceDataset()
     print("Train_dataset Size =", len(dataset.train_dataset),
             "Eval_dataset Size =", len(dataset.eval_dataset))
-    print(len(dataset.train_dataset))#[0])
-    print(dataset.train_dataset[-1])
-    #print(len(dataset.hard_dataset))
+    print("len(dataset.train_dataset): ", len(dataset.train_dataset))#[0])
+    print("dataset.train_dataset[-1]: ", dataset.train_dataset[-1])
+    print("len(dataset.hard_dataset): ", len(dataset.hard_dataset))
     import os
     os.system("nvidia-smi")
     print(MAX_LEN)
