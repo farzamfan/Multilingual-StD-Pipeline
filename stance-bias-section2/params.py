@@ -29,7 +29,7 @@ print("++++++++++++++++++++++")
 print("Target =", not params.notarget)
 print("++++++++++++++++++++++")
 # Change target name for company for wtwt dataset
-assert params.dataset_name in ["16se", "wtwt", "enc", "17re", "19re", "mt1", "mt2"]
+assert params.dataset_name in ["16se", "wtwt", "enc", "17re", "19re", "mt1", "mt2", "PImPo"]
 if params.dataset_name == "wtwt":
     assert params.target_merger in ['CVS_AET', 'ANTM_CI', 'AET_HUM', 'CI_ESRX', 'DIS_FOX']
     assert params.cross_valid_num >= 0 and params.cross_valid_num <=4

@@ -60,7 +60,7 @@ class StanceDataset:
             self.eval_dataset, _ = self.batched_dataset(eval_set)
 
         # self.criterion_weights = torch.tensor(self.criterion_weights.tolist()).to(params.device)
-        print("Training loss weighing = ", self.criterion_weights)
+        # print("Training loss weighing = ", self.criterion_weights)
 
     def cross_valiation_split(self, train):
         assert params.test_mode != True, "Cross Validation cannot be done while testing"
@@ -121,9 +121,9 @@ class StanceDataset:
                 train, valid = self.cross_valiation_split(train)
             eval_set = valid
         print("Length of train, eval_set:", len(train), len(eval_set))
-        print("Before shuffling train[0] = ", train[0]["tweet_id"], end=" | ")
+        # print("Before shuffling train[0] = ", train[0]["tweet_id"], end=" | ")
         random.shuffle(train)
-        print("After shuffling train[0] = ", train[0]["tweet_id"])
+        # print("After shuffling train[0] = ", train[0]["tweet_id"])
 
         return train, eval_set
 
@@ -176,10 +176,9 @@ class StanceDataset:
 
             global MAX_LEN
             MAX_LEN = max(MAX_LEN, texts.shape[1])
-
-            print("\n", stances, stances.size())
-            print("\n", pad_masks[0, :], pad_masks.size())
-            print("\n", segment_embed[0, :], segment_embed.size())
+            # print("\n", stances, stances.size())
+            # print("\n", pad_masks[0, :], pad_masks.size())
+            # print("\n", segment_embed[0, :], segment_embed.size())
 
             b = params.batch_size if (idx + params.batch_size) < num_data else (num_data - idx)
             l = texts.size(1)
@@ -193,16 +192,16 @@ class StanceDataset:
 
         print("num_batches=", len(dataset), " | num_data=", num_data)
         criterion_weights = np.sum(criterion_weights)/criterion_weights
-        print(MAX_LEN)
+        print("MAX_LEN: ",MAX_LEN)
         return dataset, criterion_weights/np.sum(criterion_weights)
 
 if __name__ == "__main__":
     dataset = StanceDataset()
     print("Train_dataset Size =", len(dataset.train_dataset),
             "Eval_dataset Size =", len(dataset.eval_dataset))
-    print("len(dataset.train_dataset): ", len(dataset.train_dataset))#[0])
-    print("dataset.train_dataset[-1]: ", dataset.train_dataset[-1])
-    print("len(dataset.hard_dataset): ", len(dataset.hard_dataset))
+    # print(len(dataset.train_dataset))#[0])
+    # print(dataset.train_dataset[-1])
+    # print(len(dataset.hard_dataset))
     import os
     os.system("nvidia-smi")
     print(MAX_LEN)

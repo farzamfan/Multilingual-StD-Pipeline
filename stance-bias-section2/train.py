@@ -93,7 +93,7 @@ else:
     eval_dataset = dataset_object.eval_dataset
     if params.dataset_name == "enc":
         target_names = [dataset_object.id2stance[id_] for id_ in range(0, 2)]
-    elif params.dataset_name in ["16se", "mt1", "mt2"]:
+    elif params.dataset_name in ["16se", "mt1", "mt2","PImPo"]:
         target_names = [dataset_object.id2stance[id_] for id_ in range(0, 3)]
     else:
         target_names = [dataset_object.id2stance[id_] for id_ in range(0, 4)]
