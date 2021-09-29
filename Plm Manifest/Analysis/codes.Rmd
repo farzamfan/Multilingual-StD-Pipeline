@@ -45,13 +45,13 @@ ggplot(data=data, aes(x=countryName)) +
   geom_bar() +
   geom_text(stat='count', aes(label=..count..), vjust=-1)
 
-pie(table(data$topic),labels = c("immigration","integration"))
+pie(table(data$topic),labels = c("immigration","integration"),main="topic distribution - whole dataset")
 
-pie( table( filter(data,topic=="1") %>% select(direction)),labels = c("against","neutral","pro"),main = "Stance against immigration")
+pie( table( filter(data,topic=="1") %>% select(direction)),labels = c("against","neutral","pro"),main = "Stance against immigration - whole dataset")
 
-pie( table( filter(data,topic=="2") %>% select(direction)),labels = c("against","neutral","pro"),main = "Stance against integration")
+pie( table( filter(data,topic=="2") %>% select(direction)),labels = c("against","neutral","pro"),main = "Stance against integration - whole dataset")
 
-pie(table( filter(data,country=="22") %>% select(party)),labels = c("green left","socialist party","labour party","d66","VVD","christian democrat appeal","christian union","party of freedom","party of the animals","reformed political party"))
+pie(table( filter(data,country=="22") %>% select(party)),labels = c("green left","socialist party","labour party","d66","VVD","christian democrat appeal","christian union","party of freedom","party of the animals","reformed political party"),main = "dutch parties")
 
-pie(table(data$stance))
+pie(table(data$stance),main = "stance distribution - whole dataset")
 ```

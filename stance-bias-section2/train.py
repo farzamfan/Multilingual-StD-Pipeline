@@ -117,7 +117,7 @@ class BERTStance(nn.Module):
 
 if params.dataset_name == "enc":
     model = BERTStance(2)
-elif params.dataset_name in ["16se", "mt1", "mt2"]:
+elif params.dataset_name in ["16se", "mt1", "mt2","PImPo"]:
     model = BERTStance(3)
 else:
     model = BERTStance(4)

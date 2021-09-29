@@ -97,6 +97,6 @@ for data in wtwt:
 
 print("Processed all dataset")
 
-fo = open("data.json", "w+")
+fo = open("data_new.json", "w+")
 json.dump(wtwt_obtained, fo, indent=2)
 fo.close()

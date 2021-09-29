@@ -131,7 +131,7 @@ for dataset, split in [(train, 'train'), (dev, 'dev'), (test, 'test')]:
         new_data['split'] = split
         preproced_dataset.append(new_data)
 
-fo = open("data.json", "w+")
+fo = open("data_new.json", "w+")
 json.dump(preproced_dataset, fo, indent=2)
 fo.close()
 

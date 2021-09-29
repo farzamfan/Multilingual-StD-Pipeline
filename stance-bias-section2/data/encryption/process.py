@@ -89,7 +89,7 @@ for key in scrapped_tweets:
     cnt += 1
 # assert split == "test"
 
-fo = open("data.json", "w+")
+fo = open("data_new.json", "w+")
 json.dump(prep_dataset, fo, indent=2)
 fo.close()
 
