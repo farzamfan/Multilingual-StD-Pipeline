@@ -83,7 +83,7 @@ toExport$target <- as.character(toExport$target)
 toExport[toExport$target=="1",4]="Immigration"
 toExport[toExport$target=="2",4]="Integration"
 
-toExport[toExport$stance=="Pro",5]="PRO"
+toExport[toExport$stance=="Pro",5]="FAVOR"
 toExport[toExport$stance=="Against",5]="AGAINST"
 toExport[toExport$stance=="Neutral",5]="NONE"
 
