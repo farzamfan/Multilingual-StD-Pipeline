@@ -72,7 +72,7 @@ def readcsv(filename, delim, split):
     return dataset[1:]
 
 train_dataset = readcsv("scrapped_full/train.csv", ',', 'train')
-test_dataset = readcsv("scrapped_full/test.csv", ',', 'test')
+# test_dataset = readcsv("scrapped_full/test.csv", ',', 'test')
 
 prep_dataset = []
 
@@ -90,7 +90,7 @@ def append_dataset(dataset, split):
                         })
 
 append_dataset(train_dataset, 'train')
-append_dataset(test_dataset, "test")
+# append_dataset(test_dataset, "test")
 
 fo = open("data.json", "w+")
 json.dump(prep_dataset, fo, indent=2)
