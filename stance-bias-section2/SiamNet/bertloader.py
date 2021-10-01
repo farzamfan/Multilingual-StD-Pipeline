@@ -194,7 +194,7 @@ class StanceDataset:
 
         print("num_batches=", len(dataset), " | num_data=", num_data)
         criterion_weights = np.sum(criterion_weights)/criterion_weights
-        print(MAX_LEN)
+        # print(MAX_LEN)
         return dataset, criterion_weights/np.sum(criterion_weights)
 
 if __name__ == "__main__":
@@ -206,4 +206,4 @@ if __name__ == "__main__":
     # print(len(dataset.hard_dataset))
     import os
     os.system("nvidia-smi")
-    print(MAX_LEN)
+    # print(MAX_LEN)
