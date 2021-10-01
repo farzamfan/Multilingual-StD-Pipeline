@@ -1,10 +1,7 @@
-import csv, json
-from nltk.tokenize import word_tokenize
-
+import csv, json, sys
 
 def pre_process_single(text, id):
     return text.split(" ")
-
 
 def readcsv(filename, delim, split):
     dataset = []
@@ -18,8 +15,8 @@ def readcsv(filename, delim, split):
                 dataset.append([split + "_" + str(i)] + row[1:4])
     return dataset[1:]
 
-train_dataset = readcsv("train.csv", ',', 'train')
-test_dataset = readcsv("test.csv", ',', 'test')
+train_dataset = readcsv(sys.argv[1]+"/train.csv", ',', 'train')
+test_dataset = readcsv(sys.argv[1]+"/test.csv", ',', 'test')
 
 prep_dataset = []
 
@@ -39,10 +36,7 @@ def append_dataset(dataset, split):
 append_dataset(train_dataset, 'train')
 append_dataset(test_dataset, "test")
 
-# import pdb
-# pdb.set_trace()
-
-fo = open("data.json", "w+")
+fo = open(sys.argv[1]+"/data.json", "w+")
 json.dump(prep_dataset, fo, indent=2,ensure_ascii=False)
 fo.close()
 
