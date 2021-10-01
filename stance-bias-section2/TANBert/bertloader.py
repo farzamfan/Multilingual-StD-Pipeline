@@ -23,7 +23,7 @@ FOLDER_NAME = {"16se" : "16semeval",
                 "PImPo":"PImPo"
             }[params.dataset_name]
 
-DATA_PATH = os.path.join(basepath, 'data', FOLDER_NAME, 'data.json')
+DATA_PATH = os.path.join(basepath, 'data', FOLDER_NAME, params.dataset_path, 'data.json')
 
 
 class StanceDataset:
