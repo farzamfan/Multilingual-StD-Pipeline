@@ -30,10 +30,9 @@ def train(model, dataset, criterion):
         preds = model(texts, targets, text_pad_masks, target_pad_masks)
         loss = criterion(preds, stances)
 
-        optimizer.zero_grad()
         loss.backward()
         optimizer.step()
-        # optimizer.zero_grad()
+        optimizer.zero_grad()
        # scheduler.step()
 
         if num_batch % 100 == 0:

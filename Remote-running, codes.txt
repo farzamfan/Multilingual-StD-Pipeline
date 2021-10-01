@@ -1,12 +1,4 @@
-# port forwarding
-ssh -L 5555:localhost:5555 farzam@vu.amcat.nl -t ssh -L 5555:localhost:5555 farzam@vu.ccs-amsterdam.org
 
-ssh farzam@vu.amcat.nl
-ssh farzam@vu.ccs-amsterdam.org
-Then enter a city name
-
-conda activate XCS224N
-jupyter notebook --no-browser --port=5555
 
 # Run commands:
 Simple: python3 train.py --dataset_name=16se --test_mode=false --bert_type=bert-base-cased --seed=1 --lr=1e-5 --n_epochs=5
