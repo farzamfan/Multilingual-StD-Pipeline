@@ -131,7 +131,7 @@ class BERTStance(nn.Module):
 
         return self.classifier(self.drop(pooled))
 
-model = BERTStance(4)
+model = BERTStance(num_stances=3)
 print("Model created")
 os.system("nvidia-smi")
 embedding_size = model.bert.embeddings.word_embeddings.weight.size(1)
