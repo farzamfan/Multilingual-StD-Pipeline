@@ -22,6 +22,7 @@ parser.add_argument("--device", type=str, default="cuda", help="name of the devi
 parser.add_argument("--wandb", dest="wandb", action="store_true", default=False)
 parser.add_argument("--bert_type", type=str, required=True)
 parser.add_argument("--notarget", dest="notarget", action="store_true", default=False)
+parser.add_argument("--dataset_path", type=str, required=True)
 parser.add_argument("--dataset_name", type=str, required=True)
 params = parser.parse_args()
 
