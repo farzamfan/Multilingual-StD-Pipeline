@@ -1,196 +1,391 @@
 party,content,target,stance
-deu: Social Democratic Party of Germany,"Wir wollen mehr Zusammenhalt in unserer Gesellschaft: Junge und Ältere, Frauen und Männer, Deutsche und Nicht-Deutsche, Gesunde und Kranke, Menschen mit und ohne Behinderung.",Integration,FAVOR
-deu: Free Democratic Party,-   Deutschland ist ein weltoffenes Land.,Immigration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,Verstärkte Zuwanderung würde den inneren Frieden gefährden und radikalen Kräften Vorschub leisten.,Immigration,AGAINST
-deu: Alliance‘90/Greens,Das Asylrecht ist ein unveräußerliches Menschenrecht.,Immigration,FAVOR
-deu: The Left,"Wer nach einem zermürbenden Anerkennungsverfahren politisches Asyl erhält, sieht sich immer häufiger Asyl-Widerrufsverfahren ausgesetzt, wenn die Behörden der Ansicht sind, die Lage im Herkunftsland habe sich geändert.",Immigration,NONE
-deu: Christian Democratic Union/C.Social Union ,Eine solche Willkommenskultur muss sichtbar und spürbar werden – beginnend bereits in den Herkunftsländern.,Immigration,FAVOR
-deu: Social Democratic Party of Germany,"Dazu gehört, daß die in Deutschland geborenen Kinder von ausländischen Mitbürgerinnen und Mitbürgern mit der Geburt die deutsche Staatsangehörigkeit erhalten, wenn schon die Mutter oder der Vater in Deutschland geboren worden ist",Integration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,Eine Voraussetzung für die Einbürgerung sind ausreichende deutsche Sprachkenntnisse.,Integration,AGAINST
-deu: Social Democratic Party of Germany,"Wir wollen mehr Mittel für die Jugendarbeit zur Verfügung stellen, mehr Integrationsangebote machen und eine bessere Jugendkulturarbeit fördern",Integration,FAVOR
-deu: Free Democratic Party,Liberale sehen das Zusammenleben verschiedener Kulturen als Chance und Bereicherung an.,Integration,FAVOR
-deu: Free Democratic Party,"Das erleichtert den Einstieg in Arbeit für viele Menschen, zum Beispiel durch die Erhöhung der Verdienstgrenze für Mini-Jobs auf 450 Euro und die vereinfachte Anerkennung ausländischer Bildungsabschlüsse.",Integration,FAVOR
-deu: Alliance‘90/Greens,Integration bedeutet eine Herausforderung für alle.,Integration,AGAINST
-deu: Christian Democratic Union/C.Social Union ,Wir setzen uns auch im Interesse der Betroffenen für zügige Verfahren bei Ausländerbehörden und Verwaltungsgerichten ein.,Immigration,FAVOR
-deu: The Left,"Dazu gehören vielseitiges, praxisorientiertes Wissen und Können, interkultureller Austausch, systematische und den Bildungsweg kontinuierlich begleitende Förderung beider Sprachen von zweisprachig aufwachsenden Kindern, Umweltbewusstsein und Sozialkompetenz, ästhetische Erfahrung, ein humanistisches Gesellschafts- und Geschichtsverständnis, Kritik- und Urteilsfähigkeit.",Integration,FAVOR
-deu: Free Democratic Party,"-   daher setzen wir uns, bei einem rechtmäßigen Mindestaufenthalt von fünf Jahren, für die Einführung eines kommunalen Ausländerwahlrechts ein.",Integration,FAVOR
-deu: Alliance‘90/Greens,Umfassende Aufklärung der Betroffenen über ihre Rechte und angemessener Rechtsschutz müssen eine Selbstverständlichkeit sein.,Integration,FAVOR
-deu: Alliance‘90/Greens,"Wir treten dafür ein, dass die UN-Behindertenrechtskonvention in Deutschland konsequent umgesetzt wird und eine entsprechende Überarbeitung der gesetzlichen Grundlagen erfolgt.",Integration,FAVOR
-deu: Social Democratic Party of Germany,· Interkulturelle Qualifizierung der öffentlichen Verwaltung.,Integration,FAVOR
-deu: Party of Democratic Socialism,"Im Grundschulbereich bedarf es besonderer Anstrengungen – auch zur Integration und zur Sprachförderung –, um einer Ausgrenzung ausländischer Kinder entgegen zu wirken.",Integration,FAVOR
-deu: The Left,"15,9 Millionen Menschen in Deutschland haben einen Migrationshintergrund, mehrheitlich sind sie deutsche Staatsangehörige.",Integration,FAVOR
-deu: Party of Democratic Socialism,"Flüchtlingen, Immigrantinnen und Immigranten werden elementare Bürgerrechte verwehrt",Integration,AGAINST
-deu: Alliance‘90/Greens,"sowie für einen sicheren Aufenthaltsstatus für Menschen, die lange in Deutschland leben.",Integration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,Wir werden für eine eindeutige Identitätsfeststellung mit modernen technischen Möglichkeiten sorgen.,Immigration,NONE
-deu: The Left,• geschlechtsspezifische Fluchtursachen als Asylgrund umfassend anerkennen:,Immigration,FAVOR
-deu: Alliance‘90/Greens,Ein Europa mit gemeinsamen Sozialstandards und mehr Kooperation in Steuer- und Finanzfragen.,Integration,FAVOR
-deu: Free Democratic Party,"-    Wir setzen uns für die Visafreiheit mit Russland, der Türkei und den östlichen sowie südlichen Nachbarn der EU ein, sobald sie die dafür erforderlichen Voraussetzungen erfüllen.",Immigration,FAVOR
-deu: Social Democratic Party of Germany,"Wir werden uns darum bemühen, eine verfassungsändernde Mehrheit im Bundestag zu erreichen, damit jede Frau und jeder Mann das kommunale Wahlrecht nach einem fünfjährigen legalen Aufenthalt in Anspruch nehmen kann.",Integration,FAVOR
-deu: Alliance‘90/Greens,Laut PISA-Studie sind rund 20 Prozent aller 15-Jährigen quasi Analphabeten.,Integration,NONE
-deu: Christian Democratic Union/C.Social Union ,"Weitere Projekte, die sich für Aussöhnung und Völkerverständigung einsetzen, wie beispielsweise das Sudetendeutsche Museum in München, wollen wir weiterhin unterstützen.",Integration,FAVOR
-deu: Alliance‘90/Greens,"Wir sehen aber, dass es vielen so geht.",Integration,FAVOR
-deu: Social Democratic Party of Germany,"Kultur und Bildung ermöglichen Teilhabe, Selbstverwirklichung und persönliche Entfaltung.",Integration,FAVOR
-deu: Alliance‘90/Greens,Wir wollen dagegen Integration über gesellschaftliche Teilhabe,Integration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,Wir werden die Abschiebung straffällig gewordener Ausländer erleichtern und beschleunigen und die rechtlichen Voraussetzungen für eine Haftverbüßung im Herkunftsland verbessern.,Integration,AGAINST
-deu: The Left,"Sogenannte Kettenduldungen, die jährlich zu beantragen sind, wollen wir zu Gunsten von gesicherten Aufenthaltsrechten beenden.",Immigration,FAVOR
-deu: Alliance‘90/Greens,Die Perspektive der europäischen Integration ist mehr und mehr zum Ordnungsfaktor in Südosteuropa geworden.,Integration,NONE
-deu: Christian Democratic Union/C.Social Union ,Für Ausländer können Deutsch-Lehrgänge hinzutreten.,Integration,FAVOR
-deu: Alliance‘90/Greens,"Für Massenfluchtsituationen brauchen wir europäische Regelungen, die eine rasche, unbürokratische Aufnahme und einen sicheren Aufenthalt garantieren; alle Mitgliedstaaten müssen Verantwortung übernehmen",Immigration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,"Die meisten Menschen, die aus anderen Ländern nach Deutschland gekommen sind, wünschen sich eine gute Integration",Integration,FAVOR
-deu: Social Democratic Party of Germany,Wir wollen den besten Forschern aus aller Welt optimale Bedingungen bieten.,Immigration,FAVOR
-deu: Alliance‘90/Greens,"Wir wollen die Regelung abschaffen, nach der Flüchtlinge nur in denjenigen EU-Staaten aufgenommen werden können, in denen sie als Erstes angekommen sind (DublinII-Abkommen),",Immigration,FAVOR
-deu: Social Democratic Party of Germany,"Das Programm soll sich sowohl an die Zuwanderinnen und Zuwanderer und ihre Kinder richten als auch an die ortsansässige Bevölkerung, um eine gemeinsame Entwicklung der Stadtteile und Quartiere zu ermöglichen,",Integration,FAVOR
-deu: Free Democratic Party,"Deshalb ist es für die FDP von zentraler Bedeutung, dass alle Religionsgemeinschaften sich klar und deutlich zu den Menschenrechten als Teil der staatlichen Rechtsordnung bekennen und gegen diese nicht verstoßen.",Integration,NONE
-deu: Christian Democratic Union/C.Social Union ,"ntegration setzt nicht nur Gesetzestreue und das Respektieren der Grundlagen des Zusammenlebens voraus, sondern auch das Akzeptieren der Traditionen und Wertvorstellungen in unserer Gesellschaft.",Integration,AGAINST
-deu: Alliance‘90/Greens,Integration kann nicht mit ausgestrecktem Zeigefinger von oben verordnet werden.,Integration,FAVOR
-deu: Free Democratic Party,Für die FDP kommt weder eine Abschaffung des Asylgrundrechts noch eine Beschneidung der grundgesetzlichen Rechtsweggarantie in Frage.,Immigration,FAVOR
-deu: Social Democratic Party of Germany,und Sozialleistungen auf das Integrationsziel abstimmen.,Integration,FAVOR
-deu: Alliance‘90/Greens,Die Grundrechte gelten für alle in Deutschland lebenden Menschen.,Integration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,Kirchliche Aktivitäten fördern vielfach die Solidarität vor Ort.,Immigration,FAVOR
-deu: The Left,"Quoten, Kontingente und Punktesysteme sind Instrumente einer menschenverachtenden, selektiven Einwanderungspolitik.",Immigration,FAVOR
-deu: Alliance‘90/Greens,"Neue rechte Initiativen versuchen besonders im Internet gezielt mit einer jugendlichen Sprache und einem optisch ansprechenden Stil junge Menschen anzusprechen und so ihre Ideologien, ihre gruppenbezogene Menschenfeindlichkeit und im speziellen ihren antimuslimischen Rassismus zu propagieren.",Integration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,"Wir wollen mithelfen, die Auswanderungsursachen in den Herkunftsländern zu besei­tigen",Immigration,FAVOR
-deu: Alliance‘90/Greens,und die stärkere Öffnung ihrer Gremien für Menschen mit Migrationshintergrund.,Integration,FAVOR
-deu: Free Democratic Party,-   Bei der Aufnahme von Flüchtlingen sind deren Notlage und Bedürftigkeit entscheidend und nicht die Religionszugehörigkeit.,Immigration,FAVOR
-deu: Alliance‘90/Greens,"Dazu gehören für uns auch mehr Fachkräfte mit Migrationshintergrund, mit eigener Behinderung sowie mehr Männer besonders für den Kita- und Grundschulbereich.",Integration,FAVOR
-deu: Alliance‘90/Greens,Wir fordern die Beibehaltung der Visumsfreiheit für Serbien und Mazedonien,Immigration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,"Dazu ist vor allem ein weitgehend angeglichenes, schnelles, rechtsstaatlichen Ansprüchen genügendes Asylverfahren zu schaffen.",Immigration,FAVOR
-deu: Free Democratic Party,Gleichzeitig zeigen wir aber auch – zum Beispiel mit der Schaffung der Straftatbestände zur Bekämpfung der Zwangsheirat und Genitalverstümmelung– deutlich die Grenzen der Toleranz auf.,Integration,FAVOR
-deu: Alliance‘90/Greens,Im Ausland erworbene berufliche Qualifikationen müssen in Deutschland leichter anerkannt werden.,Integration,FAVOR
-deu: Social Democratic Party of Germany,"Maßnahmen zur gezielten Förderung ausländischer Jugendlicher sollen verstärkt werden, damit eine bessere Integration in die Gesellschaft gelingen kann.",Integration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,"Gegen kriminelle Ausländer, die sich illegal oder kurzfristig in Deutschland befinden, werden wir konsequent vorgehen",Integration,AGAINST
-deu: Free Democratic Party,Darüber hinaus fordert die FDP ein breiteres Angebot an integrativen Kindergärten für deutsche und ausländische Kinder.,Integration,FAVOR
-deu: Free Democratic Party,Dessen weltanschauliche Neutralität muss grundsätzlich gewährleistet sein.,Integration,FAVOR
-deu: Alliance‘90/Greens,"Solange für einzelne Länder (z. B. Koso-vo) eine erneute Verfolgung nicht eindeutig ausgeschlossen werden kann, wollen wir für diese Länder ein Abschiebemoratorium erlassen.",Immigration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,Vielfalt braucht Zusammenhalt.,Integration,FAVOR
-deu: Free Democratic Party,-   Wir wollen eine Möglichkeit zur beschleunigten Einbürgerung nach vier Jahren und die grundsätzliche Zulassung der doppelten Staatsbürgerschaft.,Integration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,Deutschland ist ein erfolgreiches Integrationsland.,Integration,FAVOR
-deu: The Left,doppelte Staatsbürgerschaften ermöglichen;,Integration,FAVOR
-deu: Alliance‘90/Greens,"Wir brauchen auch intensive Bemühungen beim Aufbau gemeinsamer europäischer Parteien, Verbände und sozialer Bewegungen.",Integration,FAVOR
-deu: Alliance‘90/Greens,"Die Gesellschaft schrumpft, der Anteil der Menschen mit Migrationshintergrund nimmt zu.",Integration,NONE
-deu: Alliance‘90/Greens,"Dabei ist klar: Bei der Akzeptanz der Grundrechte,",Integration,FAVOR
-deu: Alliance‘90/Greens,die Abschiebehaft so weit wie möglich vermeiden.,Integration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,Er leistet damit auch radikalen Kräften Vorschub,Immigration,AGAINST
-deu: The Left,Deshalb ist eine Teilhabe aller zu ermöglichen.,Integration,FAVOR
-deu: Alliance‘90/Greens,Dies wird auch Ängste in der Bevölkerung gegenüber weiterer Zuwanderung reduzieren,Immigration,FAVOR
-deu: Alliance‘90/Greens,Die Mehrzahl ihrer Kinder ist hier geboren,Integration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,Der Abschottung in Parallelgesellschaften und islamischen Sondergerichten außerhalb unserer Rechtsordnung treten wir entschieden entgegen.,Integration,AGAINST
-deu: Party of Democratic Socialism,"Die PDS wird weiterhin gemeinsam mit anderen demokratischen und antifaschistischen Kräften konsequent Widerstand gegen Rechtsentwicklung, Rassismus und Antisemitismus leisten",Integration,FAVOR
-deu: Alliance‘90/Greens,"das Flüchtlinge schützt, anstatt die Grenzen Europas zu todbringenden Mauern aufzurüsten.",Immigration,FAVOR
-deu: Alliance‘90/Greens,Die Fehler der alten „Gastarbeiterpolitik“ dürfen nicht wiederholt werden.,Integration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,"Gute Deutschkenntnisse sind Grundvoraussetzung für Bildung und Ausbildung, für Integration in den Beruf, für Mitwirkung und sozialen Aufstieg.",Integration,FAVOR
-deu: Free Democratic Party,"Auch die Herausforderungen des Demographischen Wandels, des Klimaschutzes sowie der Integration und Inklusion machen innovative Wohnungs-und Stadtentwicklungskonzepte zur Querschnittsaufgabe.",Integration,FAVOR
-deu: Alliance‘90/Greens,Grün steht für eine gestaltete Zuwanderung,Immigration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,"Diese Integration findet auch vielerorts statt, zum Beispiel am Arbeitsplatz, in der Schule, im Sportverein",Integration,FAVOR
-deu: Free Democratic Party,Die FDP steht für eine humanitäre Zuwanderungspolitik auf Grundlage des internationalen Flüchtlingsrechts.,Immigration,FAVOR
-deu: Alliance‘90/Greens,"Wo das Gesetz des Stärkeren gilt, sind Haß und Gewalt nicht fern",Integration,FAVOR
-deu: Party of Democratic Socialism,Die Schulorganisation und die Schulzeiten sind in Richtung zur integrierten Gesamtschule zu überprüfen und zu reformieren.,Integration,FAVOR
-deu: Alliance‘90/Greens,"Wir wollen eine gemeinsame Grenzpolitik der EU, welche die rechtlichen Normen Europas wahrt, die Menschenrechte garantiert, das Recht auf Asyl durchsetzt,",Immigration,FAVOR
 deu: Free Democratic Party,Eltern müssen einbezogen werden.,Integration,FAVOR
-deu: Alliance‘90/Greens,"Die Staatsbürgerschaftsreform wollen wir weiterführen, für die erste Generation der Einwanderer die Möglichkeit des so genannten Doppelpasses einführen und die Einbürgerung von Kindern weiter erleichtern.",Integration,FAVOR
-deu: Alliance‘90/Greens,Doch auch ausländerrechtliche Diskriminierungen verbauen den Zugang zum qualifizierten Arbeitsmarkt.,Integration,FAVOR
-deu: Social Democratic Party of Germany,"Von insgesamt 7,3 Mio. Ausländern lebten mehr als die Hälfte bereits seit 10 Jahren und länger bei uns.",Integration,NONE
-deu: Christian Democratic Union/C.Social Union ,die Interessen und die globale Verantwortung Deutschlands und Europas müssen die Maßstäbe deutscher Außen- und Sicherheitspolitik sein.,Immigration,NONE
-deu: Social Democratic Party of Germany,"Und deshalb wollen wir, dass es in allen Wohnquartieren gesellschaftliche Teilhabe und Aufstiegsmöglichkeiten gibt.",Integration,FAVOR
-deu: Party of Democratic Socialism,und ökologisch sein,Immigration,FAVOR
-deu: Alliance‘90/Greens,"Es ist nicht hinzunehmen, wenn beispielsweise junge Menschen trotz gleicher Qualifikation deutlich schlechtere Chancen haben, zu einem Bewerbungsgespräch eingeladen zu werden oder erfolgreich eine Mietwohnung zu finden, wenn sie einen (vermeintlich) nicht deutsch klingenden Nachnamen tragen.",Integration,FAVOR
-deu: Free Democratic Party,-   Wir suchen und fordern den offenen Dialog mit allen Bevölkerungsgruppen und Religionsgemeinschaften.,Integration,FAVOR
-deu: Social Democratic Party of Germany,So gelingt die inter- und intrakulturelle Integration.,Integration,FAVOR
-deu: Alliance‘90/Greens,In Deutschland lebende AusländerInnen dürfen auch in der Sozialpolitik nicht diskriminiert werden,Integration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,Bei einer Arbeitslosigkeit von insgesamt fast 6 Millionen Menschen gibt es für Arbeitsmigration nach Deutschland nur in Ausnahmefällen eine Rechtfertigung.,Immigration,AGAINST
-deu: Alliance‘90/Greens,Den Sprachtest im Ausland als Vorbedingung schaffen wir ab.,Immigration,FAVOR
-deu: Alliance‘90/Greens,und führt das kommunale Wahlrecht für Migrantinnen und Migranten ein.,Integration,FAVOR
-deu: Alliance‘90/Greens,"Es ist außerdem unsere humanitäre Pflicht, Flüchtlingen aus Syrien zu helfen.",Immigration,FAVOR
-deu: Alliance‘90/Greens,Dieses Gesetz versperrt Flüchtlingen auch den Weg zum Gesundheitssystem.,Immigration,FAVOR
-deu: Social Democratic Party of Germany,"Die arabischen Staaten im Umbruch wollen wir bei ihren Bemühungen unterstützen,",Immigration,FAVOR
-deu: Alliance‘90/Greens,und ein unabhängiges europäisches Controlling des Mitteleinsatzes großgeschrieben werden.,Immigration,FAVOR
-deu: Alliance‘90/Greens,"und ignorierte, dass Deutschland eine Einwanderungsgesellschaft ist.",Immigration,FAVOR
-deu: Alliance‘90/Greens,"Die Möglichkeit, einen Abschiebestopp nach § 54 Ausländergesetz zu erlassen, muß voll ausgeschöpft werden",Immigration,FAVOR
-deu: Alliance‘90/Greens,Schon jetzt sind viele Bausteine der Gleichstellung des Islams auf Landesebene und in den Kommunen umsetzbar:,Integration,FAVOR
-deu: Alliance‘90/Greens,"Wir unterstützen die verstärkte Zusammenarbeit von Hochschulen weltweit, insbesondere mit Ländern der ”Dritten Welt”",Immigration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,"Denn wir sind überzeugt: Wir haben bessere Chancen, ein wirtschaftlich erfolgreiches Land zu bleiben, wenn Frauen und Männer, Jüngere und Ältere, Einheimische und Zugewanderte ihre Kompetenzen und Fähigkeiten gleichermaßen in den Betrieben einbringen.",Integration,FAVOR
+deu: The Left,"Wer ihnen Hilfe verweigert, verstößt gegen ein elementares Gebot der Menschlichkeit.",Immigration,FAVOR
+deu: Alliance‘90/Greens,ebenso wie »Ausreisezentren« genannte menschenunwürdige Sammelunterkünfte,Immigration,NONE
+deu: Alliance‘90/Greens,"Dies ist nur aussichtsreich, wenn im Rahmen von Opfer- und Zeugenschutzprogrammen ausländische Frauen, die in Deutschland zur Prostitution gezwungen wurden, ein Bleiberecht für die Dauer des Strafverfahrens erhalten und ihnen danach beruflich eine Ausstiegschance ermöglicht wird",Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Vielfalt braucht Zusammenhalt.,Integration,FAVOR
+deu: The Left,"- Wir wollen ein Bleiberecht für alle Menschen mit unsicherem Aufenthaltsstatus, die länger als fünf Jahre in Deutschland leben.",Immigration,FAVOR
+deu: Social Democratic Party of Germany,"Maßnahmen zur gezielten Förderung ausländischer Jugendlicher sollen verstärkt werden, damit eine bessere Integration in die Gesellschaft gelingen kann.",Integration,FAVOR
+deu: Party of Democratic Socialism,"Die Migrations- und Asylpolitik der PDS basiert auf unserem Verständnis von Demokratie, Humanität und Menschenrechten und verfolgt vor allem folgende Ziele: Erstens: Aufnahme und Hilfe für Menschen in Not, deshalb für diese Menschen offene Grenzen",Immigration,FAVOR
+deu: Alliance‘90/Greens,Zwischen dem Benachteiligungsverbot in der Verfassung und dessen Umsetzung im täglichen Leben klafft häufig eine breite Lücke,Integration,NONE
+deu: Social Democratic Party of Germany,"Die PISA-Studie zeigt, dass höhere soziale Integration an Schulen zu besseren Leistungen führt.",Integration,FAVOR
+deu: Social Democratic Party of Germany,Eine erfolgreiche Integration braucht den Erfolgswillen beider Seiten.,Integration,FAVOR
+deu: Party of Democratic Socialism,Ihnen ist sofortiges Aufenthaltsrecht und spezifische Betreuung zu gewähren,Immigration,FAVOR
+deu: Alliance‘90/Greens,Wir werden den Erwerb der Staatsbürgerschaft durch Geburt stärken:,Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Mit CDU und CSU wird es keine Aufweichung der im Jahr 2007 gesetzlich verankerten Sprachanforderungen geben.,Integration,FAVOR
+deu: Alliance‘90/Greens,Ebenso müssen Maßnahmen gegen die Diskriminierung alter Menschen ergriffen werden,Integration,FAVOR
+deu: Alliance‘90/Greens,"Den Nachzug von ausländischen Ehegatten und eingetragenen LebenspartnerInnen wollen wir wieder erleichtern, denn Deutsch lernt man am besten im Alltag.",Immigration,FAVOR
+deu: Social Democratic Party of Germany,Studiengänge und Abschlüsse müssen international vergleichbar sein.,Immigration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,"Auch auf die Aufklärung über Menschenrechte, Bürgerrechte und Sozialrechte",Integration,FAVOR
+deu: Social Democratic Party of Germany,Flüchtlinge und Zuwanderer sind unterschiedliche Personengruppen,Immigration,NONE
+deu: Party of Democratic Socialism,Wir erleben ein gesellschaftliches Klima der Entsolidarisierung und Fremdenfeindlichkeit,Integration,FAVOR
+deu: Free Democratic Party,Bauliche und soziale Ghettosituationen müssen vermieden werden.,Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Wir werden in das Asylbewerberleistungsgesetz mit den gegenüber der Sozialhilfe niedrigeren Leistungen alle ausländischen Flüchtlinge für die Dauer ihres nur vorübergehenden Aufenthalts einbeziehen.,Immigration,AGAINST
+deu: Christian Democratic Union/C.Social Union ,Wir haben den Nachzug der Angehörigen von Spätaussiedlern erleichtert und damit der Bedeutung des familiären Zusammenhalts für die betroffenen Aussiedlerfamilien Rechnung getragen.,Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,"Sie kann Integration nicht ersetzen und ist kein Mittel, sondern stärkster Ausdruck einer erfolgreichen Integration.",Integration,FAVOR
+deu: Social Democratic Party of Germany,Die massiven Kürzungen beim Programm „Soziale Stadt” durch die schwarz-gelbe Bundesregierung aus CDU/CSU und FDP haben verheerende Folgen für die Integration vor Ort.,Integration,FAVOR
+deu: Free Democratic Party,"o Sprache ist der Schlüssel zur Bildung, zum Erfolg und zu gesellschaftlicher Integration.",Integration,FAVOR
+deu: The Left,"Wer aus politischen oder ethnischen Gründen, wegen des Geschlechts oder der sexuellen Orientierung verfolgt wird, wer um seine körperliche Unversehrtheit oder gar um sein Leben fürchten muss und sich auf der Flucht befindet, darf nicht abgewiesen werden.",Immigration,FAVOR
+deu: Free Democratic Party,"Die Zuwanderung kann Wirtschaftswachstum und Wohlstandsentwicklung in Deutschland festigen und fördern, indem sie den in vielen Branchen bestehenden Arbeitskräftemangel ausgleicht.",Immigration,FAVOR
+deu: Social Democratic Party of Germany,Wir wollen qualifizierte Einwanderung besser ermöglichen und steuern.,Immigration,FAVOR
+deu: Free Democratic Party,-   die Situation von Menschen ohne Aufenthaltsstatus im Bereich Gesundheit und faire Entlohnung schnell und eingehend überprüfen.,Integration,FAVOR
+deu: Party of Democratic Socialism,"Deshalb wollen wir die Menschen ermutigen, Möglichkeiten zur Entfaltung ihrer Individualität wahrzunehmen, selbstbewußt zu handeln und ihre Rechte zu verteidigen",Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,gleichberechtigte Teilhabe und Verantwortung.,Integration,FAVOR
+deu: Free Democratic Party,"-    Wir setzen uns ein für die vermehrte Einrichtung von Lehrstühlen für islamische Theologie an deutschen Hochschulen, für die Ausbildung von deutschsprachigen Imamen und muslimischen Religionslehrern.",Integration,FAVOR
+deu: Alliance‘90/Greens,Integration und Anerkennung beginnen bei der vorbehaltlosen Gleichstellung der Unionsbürgerinnen und -bürger aus den neuen EU-Mitgliedstaaten.,Integration,FAVOR
+deu: Alliance‘90/Greens,"Eine Arbeitsmarktpolitik, die diese Menschen wirksam und fair integriert, setzt auf passgenaue und individuelle Förderstrategien, bei denen auch erreichte Zwischen ziele als Erfolge zählen.",Integration,FAVOR
+deu: Party of Democratic Socialism,"Die PDS entwickelt und unterstützt Aktivitäten, die darauf abzielen, die spezifischen Rechte der in Deutschland lebenden Sorben, Dänen, Friesen, Sinti und Roma auf Schutz, Erhalt und Pflege ihrer nationalen Identität umfassend zu gewährleisten und im Grundgesetz der Bundesrepublik Deutschland zu verankern",Integration,FAVOR
+deu: Alliance‘90/Greens,Migrantinnen bedürfen hierzu einer besonderen Förderung.,Integration,FAVOR
+deu: The Left,- DIE LINKE blockiert gemeinsam in breiten Bündnissen Naziaufmärsche auf Straßen und Plätzen.,Integration,FAVOR
+deu: Social Democratic Party of Germany,"Sie ist in aggressiver Form rassistisch, antisemitisch und fremdenfeindlich und missbraucht das Parteienprivileg unserer Verfassung.",Integration,NONE
+deu: The Left,"Es sind immer wieder Repräsentanten der »Mitte«, die rassistische Ausfälle und Ressentiments gesellschaftsfähig machen.",Immigration,NONE
+deu: Christian Democratic Union/C.Social Union ,"Den vielfältigen Beiträgen muslimischer Vereine und Verbände zu unserem Gemeinwesen – etwa zur Integration muslimischer Zuwanderer und ihrer Nachkommen in unsere Gesellschaft, wie auch zum Dialog zwischen den Kulturen und Religionen – gilt unsere Wertschätzung und Unterstützung.",Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,CDU und CSU stehen für eine an den Bedürfnissen und Interessen unseres Landes ausgerichtete Zuwanderungspolitik.,Immigration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Unter dem Motto „Muslime in Deutschland – Deutsche Muslime“ wurde im Jahr 2006 die Deutsche Islam Konferenz ins Leben gerufen.,Integration,FAVOR
+deu: Social Democratic Party of Germany,"Die Optionspflicht ist ein integrationspolitischer Missgriff und ein bürokratisches Monstrum, das den Kommunen enorme Verwaltungskosten aufbürdet.",Integration,FAVOR
+deu: Alliance‘90/Greens,"Katastrophen, Kriege, rassistische, sexistische Gewalt und Diktaturen zwingen Millionen zu Auswanderung und Flucht",Immigration,NONE
+deu: Free Democratic Party,-   Für mehr Internationalität im Bildungswesen wollen wir den verstärkten Fremdspracheneinsatz im Rahmen von Lehrveranstaltungen u.a. an Hochschulen stärken,Integration,FAVOR
+deu: Alliance‘90/Greens,Besonders beschämend ist die Politik gegenüber Roma und Ashkali.,Immigration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,"Bis 2050 wird die weltweite Bevölkerung auf über neun Milliarden Menschen ansteigen, während die deutsche und europäische Bevölkerung weiter zurückgeht.",Immigration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Wir wollen es daher besonders fördern.,Integration,FAVOR
+deu: The Left,"Das Bildungssystem muss so verändert werden, dass Vielfalt der Herkunft und des kulturellen Hintergrundes als Chance begriffen werden kann,",Integration,FAVOR
+deu: Alliance‘90/Greens,Wir wollen dagegen Integration über gesellschaftliche Teilhabe,Integration,FAVOR
+deu: The Left,"Deshalb setzt sich DIE LINKE dafür ein, dass dieses antifaschistische Engagement anerkannt und gefördert wird.",Immigration,FAVOR
+deu: Alliance‘90/Greens,"Zeuginnen, die den Mut aufbringen gegen die Täter auszusagen, brauchen ein sicheres Aufenthaltsrecht in Deutschland.",Immigration,FAVOR
+deu: Social Democratic Party of Germany,Deutschland ist ein Einwanderungsland.,Immigration,FAVOR
 deu: Alliance‘90/Greens,"Unsere Demokratie darf niemanden aufgrund von Herkunft, Hautfarbe, sexueller Identität, Geschlecht, Behinderung, Religion und Weltanschauung oder Alter ausgrenzen.",Integration,FAVOR
-deu: Alliance‘90/Greens,"Wir wollen eine inklusive Gesellschaft, in der es normal ist, verschieden zu sein, in der alle Zugang haben.",Integration,FAVOR
-deu: Free Democratic Party,"-    Wichtig ist dafür die Förderung der deutschen Sprache, die weiterhin im Zentrum der Auswärtigen Kultur-und Bildungspolitik stehen muss.",Integration,FAVOR
-deu: Alliance‘90/Greens,"Wir gestalten Einwanderung,",Immigration,FAVOR
-deu: Alliance‘90/Greens,"Herausforderungen wie massive Armut und Arbeitslosigkeit, Diskriminierung oder Korruption müssen wir gemeinsam europäisch und in Zusammenarbeit mit den entsprechenden nationalen und regionalen Akteuren angehen,",Integration,FAVOR
+deu: The Left,- Die europarechtswidrige Diskriminierung türkischer Staatsangehöriger muss beendet und ihre Rechte aus dem EU-Türkei-Assoziationsabkommen umfassend gewahrt werden.,Integration,FAVOR
+deu: Alliance‘90/Greens,Abschiebungshaft ist daher immer nur als letztes Mittel zur unmittelbaren Durchsetzung einer Ausreiseverpflichtung zu betrachten.,Immigration,FAVOR
+deu: Free Democratic Party,Für diese Kinder wollen wir daher die befristete doppelte Staatsangehörigkeit einführen,Integration,NONE
+deu: Alliance‘90/Greens,Eine moderne und zukunftsfähige Gesellschaft muß sich den neuen Anforderungen an den Sozialstaat stellen,Integration,FAVOR
+deu: The Left,Wir wollen ein gerechtes und solidarisches System der Verantwortlichkeit für Flüchtlinge in der Europäischen Union schaffen.,Immigration,FAVOR
+deu: Alliance‘90/Greens,Demokratische Kulturpolitik basiert auf der Gleichberechtigung vielfältiger kultureller Bedürfnisse der verschiedenen Bevölkerungsgruppen in Deutschland,Integration,FAVOR
+deu: Party of Democratic Socialism,_ Wir wollen eine demokratische Europäische Union,Immigration,FAVOR
+deu: Alliance‘90/Greens,Ein wirksamer Minderheitenschutz ist dabei für uns selbstverständlich.,Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,8. Wir wollen ein gutes Zusammenleben von Einheimischen und Migranten ermöglichen.,Integration,FAVOR
+deu: Free Democratic Party,Die Steuerung der Zuwanderung durch die Einführung eines Punktesystems ist überfällig.,Immigration,AGAINST
+deu: Christian Democratic Union/C.Social Union ,Eine solche Willkommenskultur muss sichtbar und spürbar werden – beginnend bereits in den Herkunftsländern.,Immigration,FAVOR
 deu: Party of Democratic Socialism,Das Grundrecht auf Asyl muß im Sinne der Genfer Flüchtlingskonvention wiederhergestellt werden,Immigration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,Die Integration der Zuwanderer ist nicht zum Nulltarif zu haben.,Integration,FAVOR
-deu: The Left,"Soziale Ausgrenzung und die Entsicherung der Lebensverhältnisse sind auch der Nährboden, auf dem faschistische Politik wachsen kann.",Integration,FAVOR
-deu: The Left,DIE LINKE will Frontex auflösen und kämpft für eine humane und solidarische Flüchtlingspolitik.,Immigration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,Auch die Förderung von Sprachkenntnissen ist für uns zentral.,Integration,FAVOR
-deu: Alliance‘90/Greens,Wir wollen den Familiennachzug wieder erleichtern.,Immigration,FAVOR
-deu: Free Democratic Party,"Durchgreifende Reformen in der Sozial-, Arbeitsmarkt-, Renten- und Gesundheitspolitik kann und darf sie jedoch nicht ersetzen.",Integration,AGAINST
-deu: Social Democratic Party of Germany,Dazu hat das neue Staatsangehörigkeitsrecht aus dem Jahre 2000 einen wichtigen Beitrag geleistet.,Integration,FAVOR
-deu: Alliance‘90/Greens,"Wir wollen, dass sich Deutschland für Erleichterungen bei der Visa vergabe, dem Marktzugang und der Arbeitsmigration einsetzt sowie den Austausch in den Bereichen Bildung, Sport und Kultur mit dieser Region fördert.",Immigration,FAVOR
-deu: Social Democratic Party of Germany,Dazu gehört eine Modernisierung des Staatsangehörigkeits- und Wahlrechts.,Integration,FAVOR
-deu: Alliance‘90/Greens,"Ohne gleichberechtigten Einbezug der in Deutschland lebenden MigrantInnen in die Lösung von Konflikten, ohne Öffnung aller Berufe für diese Menschen und ohne Förderung der bürgerrechtlichen und integrativen Arbeit der Verbände von MigrantInnen sind multikulturelle Konflikte nicht lösbar und Integration unmöglich",Integration,FAVOR
-deu: Party of Democratic Socialism,"Das begünstigt Rechtsextremismus, Rassismus und das Aufleben von Antisemitismus",Integration,FAVOR
-deu: Alliance‘90/Greens,"und alle erhalten die Chance, ihr Leben auf einer gesicherten finanziellen Basis selbst zu gestalten, unabhängig von Herkunft und Geldbeutel der Eltern.",Integration,FAVOR
-deu: Party of Democratic Socialism,Asyl ist ein Menschenrecht,Immigration,FAVOR
-deu: Alliance‘90/Greens,"Langjährig hier lebende, bisher nur geduldete Menschen müssen über eine realitätstaugliche stichtagsunabhängige Bleiberechtsregelung eine sichere Zukunftsperspektive bekommen.",Immigration,FAVOR
-deu: Social Democratic Party of Germany,"Das gilt bei Wirtschafts-, Währungs- und Handelsfragen genauso wie im Bereich des Umwelt- und Verbraucherschutzes, der Konfliktprävention und Abrüstung und bei der Migrationspolitik.",Immigration,FAVOR
-deu: Alliance‘90/Greens,"und wollen, dass Deutschland sich im Rahmen der EU für die generelle Überprüfung der Visumspflicht der einzelnen Staaten starkmacht und insbesondere darauf hinwirkt, dass die Visumspflicht für Menschen aus den Ländern der Östlichen Partnerschaft, Russland, Kosovo und der Türkei zügig aufgehoben wird.",Immigration,FAVOR
-deu: Social Democratic Party of Germany,und für eine gerechtere Lastenverteilung bei ihrer Integration ein.,Integration,FAVOR
-deu: Alliance‘90/Greens,"Um die Schutzlücke für minderjährige, unbegleitete Flüchtlinge zu schließen, wollen wir, dass die Bundesregierung die Vorbehalte gegen die Kinderkonvention der Vereinten Nationen zurücknimmt.",Immigration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,Deutschland ist Integrationsland.,Integration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,"Diese Neuregelung wollen wir auch auf ausreisepflichtige Ausländer ausdehnen, denen die Ausreise auch zuzumuten ist, und auf alle illegal Eingereisten",Immigration,AGAINST
-deu: Alliance‘90/Greens,"Das Demonstrationsrecht hat seine Grenze, wo Menschen das Existenzrecht oder die Menschenwürde abgesprochen werden.",Integration,FAVOR
-deu: Alliance‘90/Greens,Deshalb lehnen wir eine Abschottung der Außengrenzen der EU ab.,Immigration,FAVOR
-deu: Social Democratic Party of Germany,Wir wissen aber auch: Das erfolgreiche Miteinander hängt vor allem von sozialen Faktoren ab.,Integration,NONE
-deu: Alliance‘90/Greens,"Die Genfer Flüchtlingskonvention muß - nach den Vorgaben des Hohen Flüchtlingskommissars - in Deutschland in vollem Umfang angewandt werden, ebenso die Europäische Menschenrechtskonvention",Immigration,FAVOR
-deu: Social Democratic Party of Germany,"Entsprechend der UN-Kinderrechtskonvention werden wir zügig dafür Sorge tragen, dass alle Kinder im deutschen Flüchtlingsrecht endlich auch wie Kinder behandelt werden.",Immigration,FAVOR
-deu: Free Democratic Party,"Wir wollen für jene, die eintreten möchten, die Türen zu unserer Gesellschaft öffnen.",Immigration,FAVOR
-deu: Alliance‘90/Greens,Wir wollen eine interkulturelle Öffnung der gesundheitlichen Regeldienste und falls erforderlich ein herkunftssprachliches Beratungsangebot.,Integration,FAVOR
-deu: The Left,"Zugleich errichtet die EU an ihren Außengrenzen ein zivil-militärisches Abschottungsregime, in das auch autoritäre Regime und Staaten ohne funktionierendes Asylsystem an der Peripherie der EU einbezogen werden.",Immigration,AGAINST
-deu: Free Democratic Party,Die Vereinten Nationen müssen reformiert werden und in ihren Strukturen die politischen und ökonomischen Realitäten zu Beginn des 21. Jahrhunderts angemessen widerspiegeln.,Immigration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,"Damit sich Neuzuwanderer auf das Leben in Deutschland gut vorbereiten können, brauchen wir ausreichende Informationsangebote etwa zu Einreise, Schule und Beruf sowie zum Spracherwerb.",Integration,FAVOR
-deu: The Left,Die Bundesrepublik muss endlich die notwendigen Schlussfolgerungen aus der wiederholten Kritik des Europarats ziehen.,Integration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,Voraussetzung für die Attraktivität von Städten ist eine hohe Integrationsfähigkeit.,Integration,FAVOR
-deu: Free Democratic Party,"Kenntnisse der deutschen Sprache sind eine unverzichtbare Voraussetzung zur Beseitigung sozialer Benachteiligungen und zum Erreichen schulischer, beruflicher und gesellschaftlicher Erfolge.",Integration,NONE
-deu: Social Democratic Party of Germany,· Humane Flüchtlingspolitik.,Immigration,FAVOR
-deu: Alliance‘90/Greens,"Wir haben das Aufenthaltsrecht für ausländische Ehefrauen verbessert,",Immigration,FAVOR
-deu: Free Democratic Party,"Einwanderung nach Deutschland kann nur dann erfolgreich sein, wenn die Integration gelingt.",Integration,FAVOR
-deu: Alliance‘90/Greens,"Wir wollen eine moderne Integrationspolitik, die anerkennt, dass jede Einbürgerung ein Erfolg ist.",Integration,FAVOR
-deu: Social Democratic Party of Germany,Zudem wollen wir die interkulturelle Kompetenz der Beschäftigten stärken.,Integration,FAVOR
-deu: Alliance‘90/Greens,Die Sprachförderangebote des Bundes für Migrantinnen und Migranten sowie Aussiedlerinnen und Aussiedler müssen vereinheitlicht und weiterentwickelt werden.,Integration,FAVOR
-deu: Alliance‘90/Greens,Asylpolitik steht auch in der Verantwortung der Europäischen Union,Immigration,FAVOR
-deu: Social Democratic Party of Germany,Wir verstärken nun die staatlichen Anstrengungen,Integration,FAVOR
-deu: Alliance‘90/Greens,"Teilhaben – das braucht ein diskriminierungsfreies gesellschaftliches Klima, in dem alle Menschen ihre Chance bekommen und sich einbringen können.",Integration,FAVOR
-deu: Alliance‘90/Greens,Dazu müssen die arbeits- und ausländerrechtlichen Bestimmungen weiter geöffnet,Integration,FAVOR
-deu: Party of Democratic Socialism,"Wir wollen mit fortschrittlichen Kräften und insbesondere mit den Selbstorganisationen der Migrantinnen und Migranten zusammenarbeiten, damit nicht über die Köpfe der Betroffenen hinweg entschieden wird",Integration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,und eine strikte Begrenzung der Zuwanderung genutzt werden,Immigration,AGAINST
-deu: Alliance‘90/Greens,"In einer globalisierten Welt kann es auch nicht angehen, dass Menschen ihren deutschen Aufenthaltsstatus verlieren, wenn sie sich aus beruflichen Gründen, zum Studium oder im Ruhestand zu lange im Ausland aufhalten.",Integration,FAVOR
-deu: Party of Democratic Socialism,"Nur eine zukunftsfähige Weltwirtschaftsordnung, die den Reichtum in der Welt und die gesellschaftlichen Beteiligungschancen gerechter verteilt, wird helfen, Fluchtursachen zu bekämpfen",Immigration,FAVOR
-deu: Free Democratic Party,"Nach der Neuregelung des Asylrechts vom 1.7. 1993 sollen Flüchtlinge aus Bürgerkriegsgebieten, die vorübergehend in Deutschland Schutz suchen, einen asylverfahrensunabhängigen Aufenthaltsstatus mit einem befristeten Bleiberecht erhalten",Immigration,NONE
-deu: Free Democratic Party,-   Schon in der Vergangenheit haben Einwanderer das Wirtschaftswunder mitgestaltet und unsere Gesellschaft bereichert.,Immigration,FAVOR
-deu: Alliance‘90/Greens,Wir wollen Diversität und interkulturelle Öffnung von Verwaltung und Justiz gezielt fördern.,Integration,FAVOR
-deu: The Left,"Opferschutz und Entschädigungen müssen unabhängig von einer Bereitschaft der Opfer, als Zeugin oder Zeuge in einem Strafverfahren auszusagen, gewährt werden.",Integration,FAVOR
-deu: Alliance‘90/Greens,"Wir wollen eine großzügige Bleiberechtsregelung für langjährig hier lebende Menschen, die bislang nur geduldet wurden.",Integration,FAVOR
-deu: Alliance‘90/Greens,Wir wollen zudem die Ausbildungs- und Arbeitsverbote für Asylsuchende beseitigen,Integration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,Erfolgreiche Integration braucht das Zusammenwirken der zugewanderten und der einheimischen Bevölkerung.,Integration,FAVOR
-deu: Social Democratic Party of Germany,· Deutschland muss attraktiver für Fachkräfte werden.,Immigration,FAVOR
-deu: Party of Democratic Socialism,In der Annahme und Umsetzung eines steuerfinanzierten Pflege-Assistenz-Gesetzes sehen wir eine reale Alternative zu dieser Entwicklung,Integration,FAVOR
-deu: Alliance‘90/Greens,Erleichterte Einbürgerung dient der Integration,Integration,FAVOR
-deu: Alliance‘90/Greens,"und Chancengleichheit in allen Lebensbereichen ermöglichen, vor allem in der Arbeitswelt und Bildung.",Integration,FAVOR
-deu: Alliance‘90/Greens,"Das Vermummungsverbot und das Verbot, Schutzkleidung zu tragen, sind aufzuheben",Integration,FAVOR
-deu: Social Democratic Party of Germany,"Sie muß die Arbeitsmarktlage, die Leistungsfähigkeit der sozialen Sicherungssysteme und humanitäre Gesichtspunkte berücksichtigen",Integration,NONE
-deu: Alliance‘90/Greens,"Wir brauchen darum eine Gesetzgebung, die rechtliche Spielräume ausschöpft und sicherstellt, daß Menschen geschützt werden, die vor Folter, Tod, Krieg, Bürgerkrieg oder grausamer Behandlung fliehen",Immigration,FAVOR
-deu: The Left,• für hunderttausende „Illegale“ elementare Menschenrechte wie Schulbildung und die Behandlung von Erkrankungen sichern;,Integration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,Auswärtige Kultur- und Bildungspolitik erschließt uns andere Länder und Kulturkreise.,Immigration,FAVOR
+deu: Free Democratic Party,"Auch darum haben wir beispielsweise die Mittel für Integrationskurse erhöht,",Integration,FAVOR
+deu: Free Democratic Party,"Auch müssen Möglichkeiten für ausländische Auszubildende geschaffen werden, sich in Deutschland ausbilden zu lassen.",Integration,FAVOR
+deu: Alliance‘90/Greens,"Wir brauchen spezifische Angebote und Plätze in Frauenhäusern, insbesondere für Frauen mit Behinderung, Migrantinnen, Frauen mit Kindern und pflegebedürftige Frauen.",Integration,FAVOR
+deu: Social Democratic Party of Germany,Sport vermittelt Werte wie Toleranz und Fairness.,Integration,FAVOR
+deu: Alliance‘90/Greens,Flüchtlinge dürfen nicht weniger Hilfe zum Lebensunterhalt erhalten als bedürftige Deutsche,Integration,FAVOR
+deu: The Left,"Sie sind fast doppelt so häufig von Erwerbslosigkeit betroffen, ihr Armutsrisiko ist dreimal höher als das der übrigen Bevölkerung.",Integration,NONE
+deu: Alliance‘90/Greens,"Im Ausländergesetz sollte geregelt werden, daß die Bundesländer für gefährdete Gruppen und die Kommunen für humanitäre Einzelfälle eigenständig ein dauerhaftes Bleiberecht erteilen können",Immigration,FAVOR
+deu: Alliance‘90/Greens,Kulturelle Vielfalt ist ein Gewinn.,Integration,FAVOR
+deu: The Left,"Diskriminierung von Menschen wegen ihrer ethnischen Herkunft, ihres Geschlechts, der Religion oder Weltanschauung, einer Behinderung, des Alters oder der sexuellen Identität europaweit ausschließen;",Integration,FAVOR
+deu: The Left,"Rassistische Diskriminierung und die Politik der sozialen Ausgrenzung sowie ein sozial und ethnisch selektives Bildungssystem haben dazu geführt, dass Armut besonders unter Migrantinnen und Migranten zugenommen und sich verfestigt hat.",Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Dazu setzen wir auf eine europaweite Strategie.,Immigration,AGAINST
 deu: Alliance‘90/Greens,Vor Ort entscheidet sich der Erfolg oder Misserfolg von Integrationspolitik.,Integration,FAVOR
-deu: Free Democratic Party,Zum Wettbewerb um die besten Köpfe gehört auch die Attraktivität des Studienstandortes Deutschland.,Immigration,FAVOR
-deu: Alliance‘90/Greens,Frau Merkel lässt zwar mit viel Tamtam Integrationsgipfel inszenieren.,Integration,AGAINST
-deu: Christian Democratic Union/C.Social Union ,Mit einem Anteil der Ausländer an der Bevölkerung von 9 % nimmt Deutschland unter den großen westlichen Industrienationen den Spitzenplatz ein.,Immigration,NONE
-deu: Free Democratic Party,"Bürgerkriegsflüchtlinge genießen aufgrund der Situation in ihrer Heimat unseren befristeten Schutz; sie müssen aber zurückkehren, wenn die Bürgerkriegssituation nicht mehr besteht",Immigration,AGAINST
-deu: The Left,"Besonders häufig sind Migrantinnen und Migranten gezwungen, zu skandalösen Löhnen zu arbeiten.",Integration,FAVOR
-deu: Alliance‘90/Greens,§ und BürgerInnenrechte sichern,Integration,FAVOR
-deu: Alliance‘90/Greens,Hinzu kommen muss die Förderung der Erstsprache.,Integration,FAVOR
-deu: The Left,• länger hier lebenden Menschen – unabhängig von ihrem ausländerrechtlichen Status – ein gesichertes Bleiberecht gewähren;,Integration,FAVOR
-deu: Alliance‘90/Greens,"Insgesamt muss sich die Pflege auf eine größere Vielfalt einstellen und auch kulturelle, religiöse, sexuelle oder geschlechtsspezifische Identitäten sensibel berücksichtigen.",Integration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,Die Bewerberzahlen sind gegenüber Anfang der 90er Jahre auf unter ein Viertel zurückgegangen,Immigration,NONE
-deu: Free Democratic Party,"Um die sprachliche Integration qualitativ nachhaltig zu verbessern, sind die Integrationskurse stärker nach Zielgruppen und Vorkenntnissen zu differenzieren und zu erweitern.",Integration,FAVOR
-deu: Alliance‘90/Greens,Wir wollen in Deutschland und Europa Diskriminierungen bekämpfen und die von der schwarz-gelben Bundesregierung blockierte fünfte Antidiskriminierungsrichtlinie der EU voranbringen.,Integration,FAVOR
+deu: Alliance‘90/Greens,Deshalb lehnen wir eine Abschottung der Außengrenzen der EU ab.,Immigration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Unzureichend genutzte Potenziale der nach Deutschland Zugewanderten und der Aussiedler wollen wir besser ausschöpfen.,Integration,FAVOR
+deu: The Left,Förderung und gleichberechtigter Zugang von Menschen mit Behinderung,Integration,FAVOR
+deu: Alliance‘90/Greens,statt zentrale Rechte von UnionsbürgerInnen zu beschneiden.,Integration,FAVOR
+deu: Social Democratic Party of Germany,Sondern dazu gehören auch die öffentliche Förderung der Migrationskulturen und ganz besonders der Bereich der interkulturellen Bildung.,Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,"Wir erteilen einer Ausweitung der Zuwanderung aus Drittstaaten eine klare Absage, denn sie würde die Integrationsfähigkeit unserer Gesellschaft überfordern.",Immigration,AGAINST
+deu: Social Democratic Party of Germany,"Wir wollen ein Anerkennungsgesetz, auf dessen Grundlage jeder nach spätestens sechs Monaten weiß, welche seiner im Ausland erworbenen Abschlüsse auch bei uns anerkannt werden.",Integration,FAVOR
+deu: The Left,Migrationspolitik nach arbeitsmarktlichen Nützlichkeitskriterien beenden;,Immigration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Ein wesentlicher konzeptioneller Schritt zu einer solchen neuen Kultur des Förderns und Forderns besteht in der Zusammenführung von Arbeitslosen- und Sozialhilfe.,Integration,FAVOR
+deu: Free Democratic Party,"Sie zu stärken – in Deutschland, Europa und weltweit – ist unser Ziel.",Immigration,FAVOR
+deu: Alliance‘90/Greens,"• … erleichtert Einbürgerung,",Integration,FAVOR
+deu: The Left,Leitstellen gegen Diskriminierung und Rassismus in allen Bundesländern einrichten;,Integration,FAVOR
+deu: Party of Democratic Socialism,"Die Verbände der nationalen Minderheiten sind wirksam in die Vorbereitung von Entscheidungen der Bundesregierung, der Landesregierungen und in die Verwaltungs- und Planungstätigkeit, die ihre besonderen nationalen Interessen betreffen, einzubeziehen",Integration,FAVOR
+deu: Social Democratic Party of Germany,"Wir wollen eine Gesellschaft, die sich jeder Form der Diskriminierung widersetzt",Integration,FAVOR
+deu: The Left,"Grundrechte müssen für alle Bürgerinnen und Bürger in gleicher Weise gelten, sie dürfen für Erwerbslose, Hartz-IV-Betroffene, Migrantinnen und Migranten oder für außerparlamentarische Initiativen und Bewegungen nicht eingeschränkt werden.",Integration,FAVOR
+deu: Alliance‘90/Greens,"Es ist unerlässlich, die individuelle Förderung der Schülerinnen und Schüler in den Vordergrund der Unterrichtspraxis zu rücken.",Integration,FAVOR
+deu: Alliance‘90/Greens,Die Ausgangschancen von zu vielen jungen Menschen mit und ohne Migrationshintergrund sind von Geburt an schlechter als die ihrer Altersgenossen.,Integration,NONE
+deu: Christian Democratic Union/C.Social Union ,Sprachangebote wurden bereits in den Integrationskursen speziell für Frauen zugeschnitten und durch eine Kinderbetreuung zugänglicher gemacht.,Integration,FAVOR
+deu: The Left,- Wir wollen eine Verbesserung und Ausweitung eines auf Freiwilligkeit basierenden Integrations- und Sprachkursangebots.,Integration,FAVOR
+deu: Free Democratic Party,-   Wir wollen eine Möglichkeit zur beschleunigten Einbürgerung nach vier Jahren und die grundsätzliche Zulassung der doppelten Staatsbürgerschaft.,Integration,FAVOR
+deu: Social Democratic Party of Germany,· Deutschland muss attraktiver für Fachkräfte werden.,Immigration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,mit Blick auf eine immer älter werdende Gesellschaft werden sie mehr denn je gebraucht.,Integration,FAVOR
+deu: Social Democratic Party of Germany,"Wir streben eine Gesellschaft an, in der jeder Mensch sich frei entfalten kann, ohne die Würde und Freiheit anderer zu verletzen.",Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Wir wollen gezielt noch mehr Interessenten mit Migrationshintergrund für den Polizeiberuf und die Justiz gewinnen.,Integration,FAVOR
+deu: Alliance‘90/Greens,Wir lehnen sie darum ab,Immigration,FAVOR
+deu: Alliance‘90/Greens,Dazu schaffen wir die Residenzpflichtab und setzen uns für einen weniger reglementierten Alltag ein.,Integration,FAVOR
+deu: Social Democratic Party of Germany,und die rechtliche Regelung zum Aufenthaltsrecht sowie zum Zeuginnen- und Zeugenschutz und Opferschutz verbessern.,Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,"Sie kann Integration nicht ersetzen und ist kein Mittel, sondern stärkster Ausdruck einer erfolgreichen Integration.",Integration,FAVOR
+deu: Party of Democratic Socialism,"Die PDS wird weiterhin gemeinsam mit anderen demokratischen und antifaschistischen Kräften konsequent Widerstand gegen Rechtsentwicklung, Rassismus und Antisemitismus leisten",Integration,FAVOR
+deu: Alliance‘90/Greens,Damit ermöglichen wir allen Menschen eine berufliche Perspektive ihrer Qualifikation entsprechend und reduzieren den Fachkräftemangel.,Integration,FAVOR
+deu: Alliance‘90/Greens,Mehrstaatigkeit muss generell erlaubt sein.,Integration,FAVOR
+deu: Free Democratic Party,In unserem Land leben Millionen Mitmenschen mit Migrationshintergrund.,Integration,NONE
+deu: Alliance‘90/Greens,Deshalb ist unsere gesamte Politik an den Menschenrechten ausgerichtet.,Integration,FAVOR
+deu: Alliance‘90/Greens,und schützt Flüchtlinge.,Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Die Ausländerarbeitslosigkeit hat sich in dieser Zeit massiv erhöht und liegt heute mit rund 20% doppelt so hoch wie in der Gesamtbevölkerung.,Integration,AGAINST
+deu: Free Democratic Party,"-   Wir wollen einen solidarischen Beitrag dafür leisten, dass Europa in der Welt ein sicherer Zufluchtsort für politisch Verfolgte ist.",Immigration,FAVOR
+deu: Alliance‘90/Greens,Zudem wollen wir das Prinzip der Nachrangigkeit für Migrantinnen und Migranten auf dem Arbeitsmarkt abbauen.,Integration,FAVOR
+deu: Party of Democratic Socialism,die Möglichkeit doppelter Staatsbürgerschaft,Integration,FAVOR
+deu: Alliance‘90/Greens,Immer wieder betreibt die Union Wahlkampf mit dem Ressentiment gegen Minderheiten und gegen eine moderne Einwanderungs politik.,Immigration,NONE
+deu: Alliance‘90/Greens,"Für uns gilt, was das Bundesverfassungsgericht unmissverständlich klargestellt hat: Das Existenzminimum ist für alle in Deutschland gleich.",Integration,FAVOR
+deu: Free Democratic Party,"Deshalb ist es für die FDP von zentraler Bedeutung, dass alle Religionsgemeinschaften sich klar und deutlich zu den Menschenrechten als Teil der staatlichen Rechtsordnung bekennen und gegen diese nicht verstoßen.",Integration,NONE
+deu: Social Democratic Party of Germany,"Wir wollen mehr Zusammenhalt in unserer Gesellschaft: Junge und Ältere, Frauen und Männer, Deutsche und Nicht-Deutsche, Gesunde und Kranke, Menschen mit und ohne Behinderung.",Integration,FAVOR
+deu: Alliance‘90/Greens,"Wir wollen gesetzlich sicherstellen, dass jede/r am schnellen Internet teilhaben kann.",Integration,FAVOR
+deu: Free Democratic Party,"-   Sie sind oft jahrelang in Deutschland, und müssen daher die Möglichkeit erhalten, deutsch zu lernen, um am Arbeits-und Sozialleben teilnehmen zu können.",Integration,FAVOR
+deu: Alliance‘90/Greens,Dem Aufbau von Sperr- oder Zensurinfrastrukturen treten wir seit jeher klar entgegen.,Integration,FAVOR
+deu: The Left,- Wir wollen das Bildungsprogramm gegen Rassismus und für die Akzeptanz von unterschiedlichen Lebensentwürfen stärken.,Integration,FAVOR
+deu: Free Democratic Party,"-   und die gesteuerte Einwanderung von Menschen aus dem Ausland, die in Deutschland im Gesundheitsbereich arbeiten möchten.",Immigration,FAVOR
+deu: Free Democratic Party,-   Deutschland hat die Bemühungen um die Verbesserung des Flüchtlingsschutzes auf internationaler Ebene in den vergangenen Jahrzehnten unterstützt und zählt zu den zehn Hauptgeberländern von UNHCR.,Immigration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,"Das Vereinsgesetz muss geändert werden, um Ausländervereine auch unterhalb der Schwelle der aggressiv-kämpferischen Betätigung nötigenfalls verbieten zu können.",Integration,AGAINST
+deu: Christian Democratic Union/C.Social Union ,Nur staatliche Verfolgung darf einen Anspruch auf Asyl und Aufenthalt auslösen.,Immigration,AGAINST
+deu: Free Democratic Party,die aber das Ausmaß ihrer Offenheit selbst bestimmt und festen Regeln unterwirft,Immigration,NONE
+deu: Christian Democratic Union/C.Social Union ,"Wir werden auf eine effizientere Zusammenarbeit von Grenzschutz, Polizei und Justiz der beteiligten Länder hinwirken.",Immigration,AGAINST
+deu: Alliance‘90/Greens,"Im Sozialrecht, z. B. bei der Arbeitsmarktförderung, müssen MigrantInnen gleichbehandelt werden.",Integration,FAVOR
+deu: The Left,Die Grenzen offen für Menschen in Not!,Immigration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Auswärtige Kultur- und Bildungspolitik erschließt uns andere Länder und Kulturkreise.,Immigration,FAVOR
+deu: Alliance‘90/Greens,"Jeder und jede hat ein Recht auf ein diskriminierungsfreies Leben, ohne die Blockaden durch Vorurteile, Sexismus und Rassismus.",Integration,FAVOR
+deu: Social Democratic Party of Germany,Die Leistungen für Asylbewerber werden wir nach den Vorgaben des Bundesverfassungsgerichts reformieren,Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,In Deutschland geborene Kinder von Ausländern mit unbefristetem Aufenthaltsrecht erlangen mit ihrer Geburt neben der Staatsangehörigkeit ihrer Eltern auch die deutsche Staatsangehörigkeit.,Integration,FAVOR
+deu: Alliance‘90/Greens,Das Asylbewerberleistungsgesetz mit seinen menschenunwürdigen Bestimmungen muss weg.,Immigration,FAVOR
+deu: Alliance‘90/Greens,"das Flüchtlinge schützt, anstatt die Grenzen Europas zu todbringenden Mauern aufzurüsten.",Immigration,FAVOR
+deu: Party of Democratic Socialism,"Flüchtlingen, Immigrantinnen und Immigranten werden elementare Bürgerrechte verwehrt",Integration,AGAINST
+deu: Alliance‘90/Greens,Die Mehrzahl ihrer Kinder ist hier geboren,Integration,FAVOR
+deu: Alliance‘90/Greens,Wir sehen in der Praxis der Grenzschutzagentur FRONTEX und der EU-Mitgliedsstaaten einen Verstoß gegen das Verbot der Zurückweisung und eine schwere Menschenrechtsverletzung.,Immigration,FAVOR
+deu: Social Democratic Party of Germany,"Wer auf Rettung angewiesen ist, soll sie erfahren.",Immigration,FAVOR
+deu: Alliance‘90/Greens,"Wir stehen für eine aktive Gestaltung der Arbeitsmigration, weil unsere Wirtschaft sie braucht.",Immigration,FAVOR
+deu: Free Democratic Party,"Deshalb ist es wichtig, darauf hinzuweisen, daß es nicht nur darum geht, jungen Menschen bessere Chancen zu geben, sondern darum, daß es im Interesse unserer deutschen Gesellschaft insgesamt ist, die Kinder, die hier geboren werden, besser zu integrieren",Integration,FAVOR
+deu: Alliance‘90/Greens,Union wie FDP kämpfen bis heute dagegen an – in Deutschland wie auf europäischer Ebene.,Integration,FAVOR
+deu: Alliance‘90/Greens,und die Prostitution muß als berufliche Tätigkeit anerkannt werden,Immigration,FAVOR
+deu: Alliance‘90/Greens,"Wir wollen, dass sich Deutschland für Erleichterungen bei der Visa vergabe, dem Marktzugang und der Arbeitsmigration einsetzt sowie den Austausch in den Bereichen Bildung, Sport und Kultur mit dieser Region fördert.",Immigration,FAVOR
+deu: Social Democratic Party of Germany,Sie sollen auch erste Schritte im Erlernen des Umgangs mit neuen Medien erproben.,Integration,FAVOR
+deu: Alliance‘90/Greens,"Neue Kriterien für die Vergabe von Fördermaßnahmen müssen gewährleisten, dass die Qualität der Integrations- und Bildungsarbeit im Vordergrund steht und nicht die Preise.",Integration,FAVOR
+deu: Alliance‘90/Greens,"Staat, Gesellschaft und Wirtschaft ignorieren noch viel zu häufig die vielfältigen Kompetenzen und Potenziale von Migrantinnen und Migranten.",Integration,FAVOR
+deu: Alliance‘90/Greens,Chancengleichheit beim Zugang zu Bildung bleibt so unverwirklicht.,Integration,NONE
+deu: Christian Democratic Union/C.Social Union ,"Wir wollen diesen erfolgreichen Dialog fortsetzen, der auch die Differenzen zwischen den Partnern nicht ausklammert und bereits einen wertvollen Beitrag zum besseren gegenseitigen Verständnis geleistet hat.",Integration,FAVOR
+deu: Social Democratic Party of Germany,Wir wissen aber auch: Das erfolgreiche Miteinander hängt vor allem von sozialen Faktoren ab.,Integration,NONE
+deu: Christian Democratic Union/C.Social Union ,Wir wollen Zuwanderungsanreize für nicht anerkennungsfähige Asylbewerber weiter einschränken.,Immigration,AGAINST
+deu: Free Democratic Party,Eine vielfältige Gesellschaft gibt es nicht ohne Gleichheit vor dem Gesetz.,Integration,FAVOR
+deu: Social Democratic Party of Germany,"Wir wollen mehr Mittel für die Jugendarbeit zur Verfügung stellen, mehr Integrationsangebote machen und eine bessere Jugendkulturarbeit fördern",Integration,FAVOR
+deu: Alliance‘90/Greens,Wir brauchen Einwanderung aus wirtschaftlichen und demografischen Gründen.,Immigration,FAVOR
+deu: Free Democratic Party,Die Zuwanderung muß sich stärker an unseren eigenen Interessen orientieren,Immigration,AGAINST
+deu: Christian Democratic Union/C.Social Union ,"Wir sind bereit zu einer euro­päischen Harmonisierung, bei der der Staat Asyl nach Maßgabe der Gesetze gewährt",Immigration,FAVOR
+deu: Social Democratic Party of Germany,Auch der Schutz von Minderheiten gehört zu den wichtigen Bereichen der Menschenrechtsarbeit.,Integration,FAVOR
+deu: The Left,• geschlechtsspezifische Fluchtursachen als Asylgrund umfassend anerkennen:,Immigration,FAVOR
+deu: The Left,die diskriminierenden Deutsch-Tests für einreisewillige Ehegatten wieder abschaffen;,Immigration,FAVOR
+deu: Party of Democratic Socialism,"Straf- und Gewalttaten aus rassistischer, fremdenfeindlicher und antisemitischer Motivation nehmen zu",Integration,NONE
+deu: Alliance‘90/Greens,Sie müssen einen gesicherten Aufenthaltsstatus erhalten und dürfen nicht mehr ausgewiesen werden,Integration,FAVOR
+deu: Alliance‘90/Greens,"Zuwandererinnen und Zuwanderer können sich nach klaren Kriterien bewerben, die vom Einwanderungsland nach eigenem Bedarf festgesetzt und angepasst werden können.",Immigration,FAVOR
+deu: Alliance‘90/Greens,"Alle EU-BürgerInnen, gleich welcher Herkunft oder Ethnie, sollen auch in Zukunft die Möglichkeit haben, sich in einem anderen EU-Land Arbeit zu suchen.",Immigration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Wir wollen die Erwerbsquote der Frauen mit Migrationshintergrund erhöhen.,Integration,FAVOR
+deu: Alliance‘90/Greens,"Wir werden in Brüssel außerdem eine Roadmap für ein EU-weites solidarisches Asylsystem initiieren, mit dem alle Mitgliedsstaaten gleichermaßen Verantwortung übernehmen und das Flüchtlingen ein Leben in Würde in ganz Europa ermöglicht.",Immigration,FAVOR
+deu: Social Democratic Party of Germany,· Ehegattennachzug.,Immigration,FAVOR
+deu: Alliance‘90/Greens,"Die Hilfe zum Lebensunterhalt, die Arbeitslosenhilfe und Leistungen nach dem Asylbewerberleistungsgesetz sollen durch eine bedarfsorientierte Grundsicherung abgelöst werden",Integration,FAVOR
+deu: Social Democratic Party of Germany,"Mit dem rot-grünen Zuwanderungsgesetz wurde die Duldung zwar nicht gänzlich abgeschafft, aber für Geduldete der erste Schritt für den Übergang in einen gesicherten humanitären Aufenthalt gemacht.",Immigration,FAVOR
+deu: The Left,Perspektiven eines legalen Aufenthalts schaffen;,Integration,FAVOR
+deu: Alliance‘90/Greens,Integration ist aber keine Einbahnstraße.,Integration,FAVOR
+deu: The Left,Das erfordert gleiche Rechte auf soziale und politische Teilhabe für alle in Deutschland lebenden Menschen.,Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Wir erwarten dabei auch von den muslimischen Verbänden ein erkennbareres Gegensteuern.,Integration,FAVOR
+deu: Free Democratic Party,"-   Alle religiösen Verbände und Institute sind aufgefordert, sich grundsätzlich der gesamten deutschsprachigen Bevölkerung gegenüber zu öffnen.",Integration,FAVOR
+deu: Party of Democratic Socialism,"Die PDS tritt dafür ein, daß Migrantinnen und Migranten, Aussiedlerinnen und Aussiedler gleiche Zugangsvoraussetzungen für den Bildungs-, Ausbildungs- und Arbeitsmarktbereich bekommen wie hier aufgewachsene Deutsche",Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,"Ausländer, die kein Bleiberecht in Deutschland erhalten, müssen unser Land auch wie­der verlassen",Immigration,AGAINST
+deu: Alliance‘90/Greens,Grün steht für eine gestaltete Zuwanderung,Immigration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Menschen mit Zuwanderungsgeschichte verfügen vielfach über abgeschlossene Berufs-oder Hochschulausbildungen ihrer Heimatländer.,Integration,FAVOR
+deu: Free Democratic Party,"-    Das Zusammenleben in der offenen Gesellschaft setzt jedoch das Bemühen um Gemeinsamkeiten, um Toleranz und Akzeptanz bei allen Beteiligten voraus.",Integration,AGAINST
+deu: Alliance‘90/Greens,Wir wollen den Zugang zum Wahlrecht durch eine Einbürgerungsoffensive erleichtern.,Integration,FAVOR
+deu: Alliance‘90/Greens,"Doch es genügt offensichtlich nicht, Denkmäler einzuweihen, denn während wir der im Nationalsozialismus ermordeten Sinti und Roma gedenken, betreibt die schwarz-gelbe Bundesregierung gegen die Lebenden eine rassistische „Asylmissbrauchs“- oder „Armutszuwanderungs“-Kampagne.",Immigration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Unsere Politik der Solidarität wollen wir fortsetzen.,Immigration,FAVOR
+deu: Alliance‘90/Greens,"Es ist außerdem unsere humanitäre Pflicht, Flüchtlingen aus Syrien zu helfen.",Immigration,FAVOR
+deu: Alliance‘90/Greens,Auch für Angehörige aus Drittstaaten muß das für EU-BürgerInnen geltende Kommunalwahlrecht eingeführt werden,Integration,FAVOR
+deu: Alliance‘90/Greens,"Man darf Flüchtlinge nicht in Länder abschieben, in denen Menschenrechte systematisch verletzt werden und Gefahr für Leib, Leben und Freiheit droht.",Immigration,FAVOR
+deu: Alliance‘90/Greens,Die Bundesrepublik ist führend am Wiederaufbau Afghanistans und der Eindämmung des 22-jährigen Kriegschaos beteiligt.,Immigration,FAVOR
+deu: Social Democratic Party of Germany,Sie braucht die Zustimmung der Deutschen und sie setzt bei den Zuwanderern den ernsthaften Willen zur Integration in die deutsche Gesellschaft voraus.,Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Er leistet damit auch radikalen Kräften Vorschub,Immigration,AGAINST
+deu: Social Democratic Party of Germany,Sozialdemokratische Politik will allen Menschen ein selbstbestimmtes Leben ermöglichen.,Integration,FAVOR
+deu: Free Democratic Party,"Experten gehen davon aus, dass auch durch kompensatorische Maßnahmen, wie durch eine gesteuerte Einwanderungspolitik, der künftige Bedarf nicht zufriedenstellend gedeckt werden kann.",Immigration,FAVOR
+deu: Alliance‘90/Greens,und Menschen mit Migrationsgeschichte ausgrenzt.,Integration,FAVOR
+deu: Party of Democratic Socialism,Für sie müssen wir Perspektiven eines legalen Aufenthalts schaffen.,Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Daher stehen wir Frauen im Integrationsprozess zur Seite,Integration,FAVOR
+deu: Alliance‘90/Greens,"Wir wollen eine moderne Integrationspolitik, die anerkennt, dass jede Einbürgerung ein Erfolg ist.",Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,"Das gilt ganz besonders für Menschen mit Zuwanderungsgeschichte, in Teilzeitausbildung oder mit einer Behinderung.",Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Kulturellen und religiösen Konflikten wollen wir vorbeugen.,Integration,FAVOR
+deu: Alliance‘90/Greens,und die Balance von Freiheit,Immigration,FAVOR
+deu: The Left,und gleiche Chancen wie Deutsche haben.,Integration,FAVOR
+deu: Social Democratic Party of Germany,Wir werden die gesellschaftliche Integration unserer ausländischen Mitbürgerinnen und Mitbürger erleichtern,Integration,FAVOR
+deu: Social Democratic Party of Germany,Die Grundschulen leisten einen entscheidenden Beitrag für die Lernbereitschaft und Lernfähigkeit der Kinder.,Integration,FAVOR
+deu: Alliance‘90/Greens,"erleichtert die Einwanderung, Einbürgerung",Immigration,FAVOR
+deu: Free Democratic Party,"Da qualifizierte islamische Lehrkräfte fehlen, sind islamische Lehrstühle an deutschen Hochschulen zum Zweck der Lehrerausbildung einzurichten.",Integration,FAVOR
+deu: The Left,Traumatisierte Flüchtlinge müssen muttersprachliche psychotherapeutische Versorgung erhalten.,Integration,FAVOR
+deu: Alliance‘90/Greens,"Integration kann nur gelingen, wenn Menschen in Rechtssicherheit leben können.",Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Ausländische Extremisten müssen konsequent von Deutschland ferngehalten werden.,Immigration,AGAINST
+deu: Christian Democratic Union/C.Social Union ,Weitere Erleichterungen hierfür bringen wir auf den Weg.,Immigration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Auch in Zukunft werden wir Flüchtlingen helfen.,Immigration,FAVOR
+deu: Alliance‘90/Greens,"Um Frauen und Mädchen auch bei uns wirksam zu schützen, müssen Zwangsheirat und Zwangsarbeit wie der Menschenhandel verboten werden.",Integration,FAVOR
+deu: Alliance‘90/Greens,und die multikulturelle Realität demokratisch gestalten.,Integration,FAVOR
+deu: Free Democratic Party,Religion trifft in Deutschland auf Offenheit und Toleranz und dieses erwarten wir auch von den Religionsgemeinschaften.,Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Für Ausländer können Deutsch-Lehrgänge hinzutreten.,Integration,FAVOR
+deu: Alliance‘90/Greens,Die Fehler der alten „Gastarbeiterpolitik“ dürfen nicht wiederholt werden.,Integration,FAVOR
+deu: Alliance‘90/Greens,Fünf Jahre nach der Abschaffung des Asylrechts müssen Menschen in Deutschland vor der Polizei in Kirchen Asyl suchen,Immigration,FAVOR
+deu: The Left,Der Rechtsschutz im Asylverfahren wird auf vielen Wegen ausgehebelt.,Immigration,NONE
+deu: Social Democratic Party of Germany,· Abschlüsse aus Herkunftsländern anerkennen.,Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,"Wir werden die verwaltungsgerichtlichen Entscheidungen in Asylverfahren beschleunigen und dazu die gerichtlichen Zuständigkeiten zur Überprüfung von Asylentscheidungen konzentrieren, um den Missbrauch des Asylrechts zu bekämpfen.",Immigration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,"Aussiedler sind mit ihrem Können, ihrem Fleiß und ihrer kulturellen Tradition ein Gewinn für unser Land.",Integration,FAVOR
+deu: Alliance‘90/Greens,Der neoliberalen Diskriminierung sozial Schwacher durch die FDP halten wir eine sozial gerechte Politik entgegen.,Integration,FAVOR
+deu: Party of Democratic Socialism,Die Bundesregierung muss ihre Blockadehaltung im Ministerrat bei einer Festschreibung menschenrechtlicher Mindeststandards in der EU-Flüchtlingspolitik aufgeben.,Immigration,FAVOR
+deu: Social Democratic Party of Germany,"Die Grundlagen müssen schon in der Kita gelegt werden,",Integration,FAVOR
+deu: Social Democratic Party of Germany,"ob Menschen unterschiedlicher Herkunft zusammenfinden,",Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Die von Rot-Grün betriebene Umgestaltung in eine multikulturelle Einwanderergesellschaft lehnen wir ab.,Immigration,AGAINST
+deu: Alliance‘90/Greens,Auch Nicht-EU-Bürgerinnen und -Bürger sollen deshalb ein kommunales Wahlrecht erhalten.,Integration,FAVOR
+deu: Alliance‘90/Greens,"und wollen, dass Deutschland sich im Rahmen der EU für die generelle Überprüfung der Visumspflicht der einzelnen Staaten starkmacht und insbesondere darauf hinwirkt, dass die Visumspflicht für Menschen aus den Ländern der Östlichen Partnerschaft, Russland, Kosovo und der Türkei zügig aufgehoben wird.",Immigration,FAVOR
+deu: Social Democratic Party of Germany,"Dazu brauchen wir eine Kultur der Anerkennung, die kulturelle Vielfalt nicht leugnet, sondern die kulturelle Unterschiede als Möglichkeit von neuer Gemeinsamkeit begreift.",Integration,FAVOR
+deu: Party of Democratic Socialism,Die PDS setzt sich für ein umfassendes Antidiskriminierungs- und Gleichstellungsgesetz ein,Integration,FAVOR
+deu: Social Democratic Party of Germany,"Unser Ziel ist eine Gesellschaft, in der man ohne Angst verschieden sein kann, in der alle frei und gleichwertig sind, mit gleichen Chancen und Möglichkeiten.",Integration,FAVOR
+deu: Alliance‘90/Greens,"In einer offenen Gesellschaft wird niemand wegen des Geschlechts, aus ethnischen oder rassistischen Gründen, aufgrund der Religion oder Weltanschauung, der sexuellen Identität, des Alters oder wegen einer Behinderung benachteiligt.",Integration,FAVOR
+deu: Alliance‘90/Greens,und ausländische Berufsabschlüsse leichter anerkennen.,Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Deutsch als gemeinsame Sprache schafft Identität und stärkt den Zusammenhalt in unserer Gesellschaft.,Integration,AGAINST
+deu: Christian Democratic Union/C.Social Union ,"Wir erwarten von Zuwandernden, dass sie die deutsche Sprache erlernen.",Integration,AGAINST
+deu: Christian Democratic Union/C.Social Union ,"Wir wollen ihre Bildungsmöglichkeiten verbessern, damit sie gleichberechtigt am gesellschaftlichen Leben unseres Landes teilhaben können.",Integration,FAVOR
+deu: Free Democratic Party,"-   Erst spät hat sich in unserer Gesellschaft die Einsicht durchgesetzt, dass Deutschland ein Einwanderungsland ist.",Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,"Dabei bauen wir weiterhin, ebenso wie bei der Hilfe für Flüchtlinge weltweit, auf die enge und vertrauensvolle Zusammenarbeit mit dem Flüchtlingshochkommissar der Vereinten Nationen.",Immigration,FAVOR
+deu: Free Democratic Party,Dafür treten wir ein.,Integration,FAVOR
+deu: Alliance‘90/Greens,"Wir wollen nicht mehr, daß das AusländerInnenrecht diesen MigrantInnen die wichtigsten Rechte verwehrt und sie als ”Fremde” und ”Gäste” behandelt",Integration,FAVOR
+deu: Social Democratic Party of Germany,Die SPD wird für die besonders von Armutszuwanderung betroffenen Städte ein Sofortprogramm des Bundes zur Verfügung stellen.,Immigration,FAVOR
+deu: Alliance‘90/Greens,Vermeintlich weiche Standortfaktoren werden im globalen Wettbewerb des 21. Jahrhunderts zur Grundlage von Unternehmensentscheidungen und müssen darum zentrales Thema regionaler Wirtschaftsförderung werden.,Integration,FAVOR
+deu: Alliance‘90/Greens,"Statt die EU-Außengrenzen immer weiter hochzurüsten und stillschweigend zu tolerieren, dass Jahr für Jahr tausende Flüchtlinge auf dem Weg in die EU im Mittelmeer ertrinken, wollen wir unser außen- und entwicklungspolitisches Handeln stärker darauf ausrichten, die gesellschaftlichen, ökonomischen und ökologischen Ursachen von Flucht und Vertreibung zu bekämpfen.",Immigration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Deutschland kann einen verstärkten Zuzug nicht verkraften,Immigration,AGAINST
+deu: Christian Democratic Union/C.Social Union ,"Wir treten zugleich für den Schutz politisch Verfolgter ein, wie es unserem Grundgesetz und der aus unserem christlich geprägten Menschenbild entspringenden Verantwortung entspricht.",Immigration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Bildung ist der Schlüssel zur Integration.,Integration,FAVOR
+deu: Free Democratic Party,-   Bei der Aufnahme von Flüchtlingen sind deren Notlage und Bedürftigkeit entscheidend und nicht die Religionszugehörigkeit.,Immigration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Wir können dabei auf eine lange Tradition erfolgreicher Integration zurückblicken.,Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,und aus den Ergebnissen jeweils zügig die notwendigen Schlussfolgerungen ziehen.,Integration,NONE
+deu: Alliance‘90/Greens,"Denjenigen, die dies wünschen, muss also die Möglichkeit einer Aufnahme in Deutschland gewährt werden.",Immigration,FAVOR
+deu: The Left,Migrantinnen und Migranten Chancengleichheit sichern und Ausgrenzung beenden;,Integration,FAVOR
+deu: Social Democratic Party of Germany,"Dies betrifft insbesondere die komplette Streichung sozial-integrativer Maßnahmen, wie etwa zum Spracherwerb oder zur Betreuung von Jugendlichen.",Integration,FAVOR
+deu: The Left,"Dazu gehören vielseitiges, praxisorientiertes Wissen und Können, interkultureller Austausch, systematische und den Bildungsweg kontinuierlich begleitende Förderung beider Sprachen von zweisprachig aufwachsenden Kindern, Umweltbewusstsein und Sozialkompetenz, ästhetische Erfahrung, ein humanistisches Gesellschafts- und Geschichtsverständnis, Kritik- und Urteilsfähigkeit.",Integration,FAVOR
+deu: Party of Democratic Socialism,"Zweitens: Nichtdeutsche, die fünf Jahre oder länger ihren ständigen Wohnsitz oder gewöhnlichen Aufenthalt in der Bundesrepublik Deutschland haben, erhalten das aktive und passive Wahlrecht",Integration,FAVOR
+deu: Alliance‘90/Greens,Das soll angeblich vor Zwangsverheiratung schützen.,Integration,FAVOR
+deu: Party of Democratic Socialism,Sie sind oft Opfer skrupelloser Ausbeutung.,Immigration,FAVOR
+deu: Alliance‘90/Greens,"· den Kampf gegen Rassismus, ethnische und sexistische Diskriminierung und die Versklavung von Kindern;",Immigration,FAVOR
+deu: Alliance‘90/Greens,Aber jeder Euro ist eine Investition in die Zukunft unserer Gesellschaft.,Integration,FAVOR
+deu: Party of Democratic Socialism,"Drittens: Gleiche Rechte und gleiche Rechtssicherheit für Menschen, die ihren Lebensmittelpunkt in der Bundesrepublik gewählt haben",Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Wir werden für eine eindeutige Identitätsfeststellung mit modernen technischen Möglichkeiten sorgen.,Immigration,NONE
+deu: Social Democratic Party of Germany,Die Integration der Zuwanderer und Zuwanderinnen ist leichter möglich.,Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,"Wer politisch verfolgt wird und schutzbedürftig ist, muss auf Deutschland vertrauen können.",Immigration,FAVOR
+deu: Alliance‘90/Greens,Zudem muss die Bundesrepublik die EU-Romastrategie umsetzen.,Immigration,FAVOR
+deu: Social Democratic Party of Germany,"und sie in ihren Anstrengungen fördern, an der gemeinsamen Kultur in unserem Land teilzuhaben.",Integration,FAVOR
+deu: The Left,"Sie zeigt sich auch an knapp 1000 rechten Gewalttaten im Jahr und an mehr als160 Todesopfern rechter und rassistischer Gewalt seit 1990, von denen staatliche Statistiken nur ein knappes Drittel überhaupt anerkennen.",Integration,FAVOR
+deu: Alliance‘90/Greens,"Wir wollen zudem die Regelung abschaffen, nach der Flüchtlinge nur in denjenigen EU-Staaten aufgenommen werden können, in denen sie als Erstes angekommen sind (Dublin-II-Abkommen).",Immigration,FAVOR
+deu: Alliance‘90/Greens,"Auch wollen wir Flüchtlingen von Anfang an den Zugang zu Bildung, Gesundheitswesen, Integrationskursen, Spracherwerb und Kommunikationsmedien eröffnen.",Integration,FAVOR
+deu: Alliance‘90/Greens,"Ältere, Frauen, Menschen mit Migrationshintergrund und Geringqualifizierte.",Integration,FAVOR
+deu: Alliance‘90/Greens,BÜNDNIS 90/DIE GRÜNEN wollen mit einem Niederlassungsgesetz eine weitestgehende rechtliche Gleichstellung von BürgerInnen aus Drittstaaten mit BürgerInnen der Europäischen Union erreichen,Integration,FAVOR
+deu: Alliance‘90/Greens,"Bürgerinitiativen für die Revitalisierung von Stadtvierteln, Migrantenselbstorganisationen, selbstorganisierte Kinderläden, Frauengesundheitszentren bis hin zu neueren Formen wie Bürgerstiftungen, Wohnprojekten und Integrationsbetrieben.",Integration,FAVOR
+deu: Social Democratic Party of Germany,"Deshalb treten wir aktiv für die Menschenrechte von religiösen und ethnischen Minderheiten ein, die häufig genug zu Opfern politischer Konflikte und sozialer und wirtschaftlicher Spannungen in den Krisengebieten der Welt werden.",Immigration,FAVOR
+deu: Alliance‘90/Greens,Gerade an Orten der Unterdrückung und in Zeiten der Verfolgung.,Integration,FAVOR
+deu: Free Democratic Party,Freiheit braucht Respekt und Toleranz.,Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Wir wollen eine faire Lastenteilung bei der Flüchtlingspolitik in Europa durchsetzen.,Immigration,FAVOR
+deu: Social Democratic Party of Germany,Wir alle sind Deutschland.,Integration,FAVOR
+deu: Alliance‘90/Greens,"Wir treten dafür ein, dass die UN-Behindertenrechtskonvention in Deutschland konsequent umgesetzt wird und eine entsprechende Überarbeitung der gesetzlichen Grundlagen erfolgt.",Integration,FAVOR
+deu: Free Democratic Party,Angesichts der terroristischen Angriffe des 11./ September 2001 sieht sich eine gesamte Religionsgemeinschaft dem Generalverdacht eines religiös geprägten Extremismus ausgesetzt.,Integration,FAVOR
+deu: Alliance‘90/Greens,Eine besondere Verantwortung trägt die EU für den westlichen Balkan.,Immigration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Gerade der Sport ist dabei ein wichtiger Vorreiter.,Integration,FAVOR
+deu: Alliance‘90/Greens,§ Integration fördern,Integration,FAVOR
+deu: Alliance‘90/Greens,Das beginnt in Kita und Schule und setzt sich bei der Ausbildungs-und Arbeitsplatzsuche fort.,Integration,FAVOR
+deu: Social Democratic Party of Germany,"Was wir brauchen ist ein Staatsbürgerschaftsrecht, das unserer vielfältiger werdenden Gesellschaft entspricht,",Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,"Zugleich leistet die auswärtige Kultur-und Bildungspolitik Deutschlands in anderen Ländern einen wichtigen Beitrag zur Völkerverständigung und europäischen Integration, indem wir selbst mehr über die Lebensumstände, Interessen und Traditionen unserer Nachbarn und anderer Nationen erfahren.",Immigration,FAVOR
+deu: Free Democratic Party,"Wer die Gettoisierung in den Städten zu Recht beklagt, der muß die Gettoisierung in den Köpfen verhindern",Integration,AGAINST
+deu: Alliance‘90/Greens,Wir werden ver-bindliche Zielvorgaben zur Erhöhung des Anteils der Beschäftigten mit Migrationshintergrund und Maßnahmen zur interkulturellen Öffnung festlegen.,Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Wir treten weiterhin für das Recht zur Aussiedlung nach Deutschland ein.,Immigration,FAVOR
+deu: The Left,Diese 30 Jahre alte Forderung ist heute noch dringlicher als zuvor.,Integration,FAVOR
+deu: Alliance‘90/Greens,"Wir stehen für eine Flüchtlingspolitik, die auf der Genfer Flüchtlingskonvention und der Europäischen Menschenrechtskonvention beruht.",Immigration,FAVOR
 deu: Alliance‘90/Greens,"Junge Deutsche, die auch noch den Pass eines anderen Staates haben, müssen die deutsche Staatsbürgerschaft behalten dürfen, auch wenn sie nach ihrem 23. Geburtstag die andere Staatsangehörigkeit nicht aufgeben wollen.",Integration,FAVOR
-deu: Christian Democratic Union/C.Social Union ,"Zugleich wollen wir dazu beitragen, daß diejenigen, die bleiben wollen, gesicherte Lebens­perspektiven in ihrer angestammten Heimat erhalten",Integration,FAVOR
-deu: Alliance‘90/Greens,"Auch bereits eingebürgerte Menschen werden so das Recht bekommen, erneut ihre alte Staatsbürgerschaft zusätzlich anzunehmen.",Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Frauen mit Migrationshintergrund spielen für die Integration von Zuwandererfamilien eine zentrale Rolle.,Integration,FAVOR
+deu: The Left,"Gerade in Zeiten der Krise versuchen rechte Gruppierungen, aus dieser Entwicklung Kapital zu schlagen.",Integration,FAVOR
+deu: Alliance‘90/Greens,"Sie gehört abgeschafft,",Immigration,FAVOR
+deu: Social Democratic Party of Germany,"Unser neues Zuwanderungsgesetz gibt uns die nötigen Mittel an die Hand, besser und schneller dagegen vorzugehen.",Immigration,AGAINST
+deu: Alliance‘90/Greens,"Zum anderen sollen mindestens ein Viertel aller Einwanderungsbewilligungen aus humanitären Gründen ausgesprochen werden, denn wir wollen kein reines Arbeitsaufnahmegesetz",Immigration,FAVOR
+deu: The Left,• für hunderttausende „Illegale“ elementare Menschenrechte wie Schulbildung und die Behandlung von Erkrankungen sichern;,Integration,FAVOR
+deu: Alliance‘90/Greens,Das ist doppelzüngig.,Integration,FAVOR
+deu: Free Democratic Party,Ansonsten bleibt nur die konsequente Abschiebung.,Immigration,AGAINST
+deu: Alliance‘90/Greens,"Wir sorgen dafür, dass Menschen sich ungehindert einmischen können – ohne dabei Angst vor Nachteilen oder Diskriminierung haben zu müssen.",Integration,FAVOR
+deu: Free Democratic Party,-    Kettenduldungen wollen wir abschaffen.,Immigration,NONE
+deu: Alliance‘90/Greens,"Abschiebungen von SyrerInnen in andere EU-Länder, die weiterhin nach Syrien abschieben, lehnen wir ab.",Immigration,FAVOR
+deu: The Left,"in der alle in Deutschland Lebenden, unabhängig von ihrer sozialen, regionalen oder ethnischen Herkunft, ihre kulturelle Identität finden und ausdrücken können.",Integration,FAVOR
+deu: Alliance‘90/Greens,"Jeder Form von Rechtsextremismus, Rassismus und Antisemitismus stellen wir uns entgegen.",Immigration,FAVOR
+deu: Alliance‘90/Greens,Doppelte Standards lehnen wir strikt ab.,Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Sozialer Zusammenhalt und Integration sind in besonderem Maße Herausforderungen für lebenswerte Städte.,Integration,FAVOR
+deu: Alliance‘90/Greens,"Statt die Interessen aller Beteiligten demokratisch einzubeziehen, setzt sie auf Spaltung: Erwerbstätige gegen Erwerbslose, West gegen Ost, Gesunde gegen Kranke, Junge gegen Alte, Männer gegen Frauen, Deutsche gegen AusländerInnen, Singles gegen Familien",Integration,AGAINST
+deu: Free Democratic Party,"Sie fordert aber auch die ausländischen Mitbürger auf, vom bestehenden Angebot an Sprachkursen stärkeren Gebrauch zu machen",Integration,FAVOR
+deu: Alliance‘90/Greens,Das liefert rechten Schlägern eine ideologische Rechtfertigung.,Integration,NONE
+deu: Alliance‘90/Greens,"Die Unterbringung von Asylbewerberinnen und Asylbewerbern in Sammelunterkünften und das Sachleistungsprinzip sind auf Dauer menschenunwürdig, deshalb wollen wir sie abschaffen.",Immigration,FAVOR
+deu: The Left,"damit die Benachteiligung von Migrantinnen, Migranten und Flüchtlingen beendet wird.",Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Wir werden das Erlernen der deutschen Sprache stärker einfordern und fördern.,Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Wir werden das reiche kulturelle Erbe unseres Landes bewahren und wollen es auf allen Ebenen weiterentwickeln.,Immigration,FAVOR
+deu: Alliance‘90/Greens,Das Bundesverfassungsgericht hat die faktische Abschaffung des Asylrechts in allen wesentlichen Punkten bestätigt,Immigration,NONE
+deu: Alliance‘90/Greens,Im Ausland erworbene berufliche Qualifikationen müssen in Deutschland leichter anerkannt werden.,Integration,FAVOR
+deu: Free Democratic Party,"Unter Fachleuten ist unstreitig, dass Deutschland auch in Zukunft im eigenen Interesse Zuwanderung braucht.",Immigration,FAVOR
+deu: Party of Democratic Socialism,ein Europa ohne Nationalismus und Fremdenhass,Immigration,FAVOR
+deu: Social Democratic Party of Germany,"Deutschland ist ein Einwanderungsland und lebt von seiner Vielfalt, dem Engagement und den Ideen der Menschen ganz unterschiedlicher Herkunft.",Immigration,FAVOR
+deu: Alliance‘90/Greens,Wir begreifen kulturelle Verständigung als einen Schlüssel nicht nur für das zusammenwachsende Europa.,Integration,FAVOR
+deu: Alliance‘90/Greens,"Einmischen – das heißt für uns, eine offene Gesellschaft zu schaffen, in der jede und jeder ohne Diskriminierung,",Integration,FAVOR
+deu: Free Democratic Party,"Dieses Konzept muss für die Menschen, die künftig nach Deutschland einwandern, genauso gelten, wie es auch die bereits Zugewanderten mit umfassen muss, für deren Eingliederung mehr als bisher getan werden muss.",Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,und soziale Sicherheit.,Integration,FAVOR
+deu: Alliance‘90/Greens,der Demokratie,Integration,FAVOR
+deu: Alliance‘90/Greens,"Kulturelle Orte sind Orte der gesellschaftlichen Begegnung, der produktiven Reibung.",Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Die beste Integration ist gesellschaftliche Teilhabe aller.,Integration,FAVOR
+deu: Alliance‘90/Greens,"Die von der großen Koalition beschlossene Bleiberechtsregelung wird dem nicht gerecht, weil sie zu viele Ausschlussgründe sowie kleinliche bürokratische Bedingungen enthält, die von den meisten Geduldeten nicht erfüllt werden können.",Immigration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Den Schutz des religiösen Bekenntnisses gegen verletzende Angriffe und Beschimpfungen wollen wir verstärken,Integration,FAVOR
+deu: Free Democratic Party,"Zur Verbesserung der Bedingungen gehört ebenso, Zuwanderungshemmnisse, wie Arbeitsverbote für mitwandernde Ehegatten, abzubauen.",Immigration,FAVOR
+deu: Alliance‘90/Greens,"Für Massenfluchtsituationen brauchen wir europäische Regelungen, die eine rasche, unbürokratische Aufnahme und einen sicheren Aufenthalt garantieren; alle Mitgliedstaaten müssen Verantwortung übernehmen",Immigration,FAVOR
+deu: Alliance‘90/Greens,Wir unterstützen die ImmigrantInnen in ihrer Forderung nach vollen Bürgerrechten,Integration,FAVOR
+deu: Free Democratic Party,Der Weg zu einer erfolgreichen Integration wird maßgeblich durch das Erlernen der deutschen Sprache bestimmt.,Integration,FAVOR
+deu: Alliance‘90/Greens,"Roma, Sinti und Aschkali sollen von der europäischen Union als europäisches Volk anerkannt werden.",Integration,FAVOR
+deu: Alliance‘90/Greens,"Wir brauchen auch intensive Bemühungen beim Aufbau gemeinsamer europäischer Parteien, Verbände und sozialer Bewegungen.",Integration,FAVOR
+deu: Alliance‘90/Greens,"Wir setzen uns für eine deutliche Erhöhung der jährlichen Mindestaufnahmequote ein, die Deutschland dem UNHCR dafür zur Verfügung stellt.",Immigration,FAVOR
+deu: Social Democratic Party of Germany,"Dazu gehört die individuelle Förderung aller Kinder, einschließlich der gezielten Sprachförderung zur besseren Integration von Kindern, die aufgrund ihrer sozialen Situation oder den geringen deutschen Sprachkenntnissen ihrer Eltern benachteiligt sind.",Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Rotgrün schafft mit der ungeregelten Aufgabe des Anwerbestopps Einfallstore für erweiterte Zuwanderung und mit der angeblichen „Härtefallregelung“ und der Ausweitung der Aufenthaltsrechte über die Genfer Flüchtlingskonvention hinaus massive Anreize für Armutsflüchtlinge aus aller Welt.,Immigration,AGAINST
+deu: Alliance‘90/Greens,und legale Zuwanderung ermöglichen.,Immigration,FAVOR
+deu: Alliance‘90/Greens,"Die Trennung in „Inländer“ und „Ausländer“ ist institutionalisiert in Gesetzen, und sie prägt die Gesellschaft und ihre Einrichtungen.",Integration,FAVOR
+deu: Alliance‘90/Greens,Ausländischen StudentInnen muß der Zugang erleichtert werden,Immigration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,"Die Vereine leisten unschätzbar viel für die Jugendbetreuung, zur Gesundheitsvorsorge und bei der Integration von Menschen mit Zuwanderungsgeschichte.",Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Unsere Sorge für die Deutschen in Rußland und in den anderen Ländern Ost- und Süd­osteuropas ist ein Gebot nationaler Solidarität,Immigration,FAVOR
+deu: The Left,"Ein Asylantrag kann meist nur in dem Land gestellt werden, in dem die Außengrenzen der EU überschritten wurden.",Immigration,NONE
+deu: Alliance‘90/Greens,"und die dazu beitragen, Vorurteile und Fremdenfeindlichkeit abzubauen",Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,"Die Mitgliedstaaten der Europäischen Union müssen auch künftig die Zuständigkeit behalten, über Zuwanderung in nationaler Verantwortung entscheiden zu können.",Immigration,AGAINST
+deu: Christian Democratic Union/C.Social Union ,Wir werden bei der personenstands- und melderechtlichen Erfassung der Geburtsorte von Vertriebenen die völkerrechtliche Position Deutschlands wahren.,Integration,FAVOR
+deu: Free Democratic Party,Und er hat ein Recht auf Teilhabe an dieser Gesellschaft.,Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Zur Abwehr der Gefahren durch kriminelle Ausländer und durch Terrorismusverdächtige wollen wir das Ausweisungsrecht konsequent vereinfachen.,Immigration,AGAINST
+deu: The Left,"In den vergangenen Jahren zielten solche Kampagnen besonders auf Roma aus den Nachfolgestaaten Jugoslawiens und aus Rumänien, die in Deutschland Schutz vor massiver Diskriminierung suchten.",Immigration,FAVOR
+deu: Free Democratic Party,Dabei soll die Zuwanderung jedoch nicht allein dem Fachkräftemangel abhelfen; vielmehr setzt die FDP auf die Förderung der Ausbildung und Umschulung von in Deutschland lebenden Arbeitslosen zu benötigten Fachkräften.,Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Der Schlüssel für eine erfolgreiche Integration sind gute Deutschkenntnisse.,Integration,FAVOR
+deu: Social Democratic Party of Germany,sowie des Sprachkurs-Angebotes und die Rücknahme der Kürzungen bei den Qualifizierungskosten für Arbeitssuchende.,Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,"Zugleich trägt er dazu bei, für die Erfordernisse der globalisierten Welt besser aufgestellt zu sein.",Integration,FAVOR
+deu: Alliance‘90/Greens,Die mit der Anordnung von Abschiebehaft verbundene Freiheitsentziehung kann in einem Rechtsstaat nur Ultima Ratio sein und soll so weit als möglich vermieden werden.,Immigration,FAVOR
+deu: Alliance‘90/Greens,"Obwohl schon jetzt an allen Ecken und Enden die Fachkräfte fehlen, ist der Zugang zum Arbeitsmarkt für viele Menschen immer noch verschlossen.",Integration,NONE
+deu: Social Democratic Party of Germany,Integration ist eine zentrale Aufgabe für die Zukunftsfähigkeit unseres Landes.,Integration,FAVOR
+deu: Alliance‘90/Greens,"Wir setzen auf eine Einbürgerungsoffensive, damit MigrantInnen schneller und leichter die deutsche Staatsbürgerschaft erlangen können.",Integration,FAVOR
+deu: Alliance‘90/Greens,Dies wird auch Ängste in der Bevölkerung gegenüber weiterer Zuwanderung reduzieren,Immigration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,Zwangsverheiratung ist eine Verletzung unseres freiheitlich-demokratischen Werteverständnisses,Integration,AGAINST
+deu: Free Democratic Party,"-   Es muss selbstverständlich werden, dass bekenntnisorientierter islamischer Religionsunterricht in deutscher Sprache an den Schulen erteilt wird, sofern generell Religionsunterricht an staatlichen Schulen stattfindet und dieser in das Wertesystem des Grundgesetzes eingebettet ist.",Integration,FAVOR
+deu: Alliance‘90/Greens,Asylpolitik steht auch in der Verantwortung der Europäischen Union,Immigration,FAVOR
+deu: Free Democratic Party,"Wichtige gesellschaftliche Institutionen und Bereiche müssen für Integration offen sein - die Schulen, Bildungseinrichtungen und Universitäten, die Medien, aber auch Polizei und Behörden.",Integration,FAVOR
+deu: Social Democratic Party of Germany,"Wir bekämpfen jede Form der Diskriminierung, ob wegen Herkunft, Geschlecht, sexueller Identität, Religion und Weltanschauung, Behinderung oder Alter.",Integration,FAVOR
+deu: Alliance‘90/Greens,Mehrsprachigkeit als Ressource nutzen,Integration,FAVOR
+deu: Social Democratic Party of Germany,"Unterschiede in der Herkunft, Religion oder Kultur dürfen nicht verdrängt,",Integration,FAVOR
+deu: Social Democratic Party of Germany,Genitalverstümmelung ist ein schweres Verbrechen an Mädchen und Frauen.,Integration,FAVOR
+deu: Alliance‘90/Greens,"Wir brauchen deshalb mehr und bessere Beratungsangebote für Gründerinnen und Gründer – gerade für Erwerbslose, Migrantinnen und Migranten und Menschen mit Behinderungen –",Integration,FAVOR
+deu: Social Democratic Party of Germany,Gleichzeitig müssen die Anstrengungen zur Hilfe für die syrischen Flüchtlinge verstärkt werden.,Immigration,FAVOR
+deu: Alliance‘90/Greens,Dafür notwendige Qualifizierungsmaßnahmen müssen an die Bedürfnisse der Migrantinnen und Migranten angepasst und in unterschiedlichen Lebenslagen zugänglich und finanzierbar sein.,Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,"Wir werden die rechtlichen Möglichkeiten konsequent nutzen, extremistische, nationalistische, integrationsfeindliche ausländische Vereinigungen in Deutschland zu verbieten.",Integration,FAVOR
+deu: Free Democratic Party,"-   Wir wollen ein Einwanderungsrecht, das Fachkräften eine Chance am Arbeitsmarkt gibt.",Immigration,FAVOR
+deu: The Left,"sowie eine solidarische Wirtschafts-, Ressourcen-und Handelspolitik zur Bekämpfung von Armut und Hunger.",Immigration,FAVOR
+deu: Party of Democratic Socialism,Bezug von Sozialhilfe darf kein Ausweisungsgrund sein,Immigration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,"Wir wollen mithelfen, die Auswanderungsursachen in den Herkunftsländern zu besei­tigen",Immigration,FAVOR
+deu: Alliance‘90/Greens,"ohne Angst vor Unterdrückung – sei es durch den Staat, durch menschenrechts-und demokratiefeindliche Bewegungen, durch private Einrichtungen, durch die eigene Familie – leben, arbeiten und handeln kann.",Integration,FAVOR
+deu: Social Democratic Party of Germany,Wir brauchen in der Bildungspolitik bei Wahrung der föderalen Zuständigkeiten eine nationale Antwort und eine gemeinsame Kraftanstrengung!,Integration,FAVOR
+deu: Alliance‘90/Greens,"In diesem Kontext ist es angesichts des demografischen Wandels und seiner weitreichenden Folgen absolut unerlässlich, auch Menschen mit Migrationshintergrund gezielt dazu zu motivieren, parteipolitisch zu partizipieren.",Integration,FAVOR
+deu: Alliance‘90/Greens,Dauerhaft hier lebende Ausländerinnen und Ausländer müssen gleichberechtigten Zugang zum gesellschaftlichen und politischen Leben haben.,Integration,FAVOR
+deu: Alliance‘90/Greens,"Vergewaltigung von Frauen im Krieg, Verstümmelung der Genitalien und Zwang zu Abtreibungen sind elementare Menschenrechtsverletzungen und für uns anzuerkennende Asylgründe",Immigration,FAVOR
+deu: Alliance‘90/Greens,schützen das Asylrecht,Immigration,FAVOR
+deu: The Left,DIE LINKE fordert: • das Asylrecht im Grundgesetz substanziell wiederherstellen;,Immigration,FAVOR
+deu: Alliance‘90/Greens,und durch das Europäische Palament kontrolliert wird.,Immigration,FAVOR
+deu: Alliance‘90/Greens,Wir wollen eine interkulturelle Öffnung der gesundheitlichen Regeldienste und falls erforderlich ein herkunftssprachliches Beratungsangebot.,Integration,FAVOR
+deu: The Left,"DIE LINKE setzt sich für das aktive und passive Wahlrecht für jene ein, die ihren Lebensmittelpunkt in Deutschland haben,",Integration,FAVOR
+deu: Social Democratic Party of Germany,Die bestehenden Gremien der Minderheiten und Volksgruppen bei der Bundesregierung wollen wir stärken und zusammen mit den Vertretern des Deutschen Bundestages auch durch direkte Ansprechpartner für die Vertreter der Minderheiten und Volksgruppen koordinieren.,Integration,FAVOR
+deu: The Left,Das Grundrecht auf Asyl (Artikel 16a Grundgesetz) muss in seiner Substanz wiederhergestellt werden (vgl. Kapitel II).,Integration,FAVOR
+deu: Alliance‘90/Greens,"Deshalb fordern wir Kultur- und Bildungsinstitutionen der Sinti und Roma sowie der sorbischen, dänischen und friesischen Minderheit gleichberechtigt finanziell zu fördern.",Integration,FAVOR
+deu: Alliance‘90/Greens,"Zu einem Miteinander ohne Angst gehört, daß Asylsuchenden, Flüchtlingen und MigrantInnen ein sicherer rechtlicher Status garantiert wird",Immigration,FAVOR
+deu: Alliance‘90/Greens,"Vollbeschäftigung bedeutet für BÜNDNIS 90/DIE GRÜNEN die Eröffnung existenzsichernder Teilhabe an der Erwerbsarbeit für alle Arbeitssuchenden, Frauen wie Männer",Integration,FAVOR
+deu: The Left,und die UN-Kinderrechtskonvention vollständig umsetzen;,Immigration,FAVOR
+deu: The Left,"Sie gelten für alle Menschen unabhängig von Geschlecht, sexueller Identität, Herkunft, Behinderung, Religion, der sozialen und ethnischen Herkunft.",Integration,FAVOR
+deu: Alliance‘90/Greens,"Die Anerkennung der doppelten Staatsbürgerschaft ist längst überfällig - nicht nur für diejenigen, denen die notwendige Ausbürgerung von Seiten ihrer Herkunftstaaten verweigert wird",Integration,FAVOR
+deu: Christian Democratic Union/C.Social Union ,"Wir brauchen klare europäische Asylregelungen mit eindeutigen Zuständigkeiten, ver­einheitlichten Leistungen und einer fairen Lastenteilung",Immigration,NONE
+deu: Social Democratic Party of Germany,Wir setzen uns aktiv für die Verhinderung der Verfolgung Angehöriger sexueller Minderheiten ein.,Integration,FAVOR
