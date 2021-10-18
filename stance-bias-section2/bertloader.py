@@ -35,7 +35,8 @@ class StanceDataset:
                             "19re": {'deny':    0, 'support':   1, 'comment': 2, 'query':  3},
                             "mt1":  {'AGAINST': 0, 'NONE':      1, 'FAVOR':   2},
                             "mt2":  {'AGAINST': 0, 'NONE':      1, 'FAVOR':   2},
-                            "PImPo": {'AGAINST': 0, 'NONE': 1, 'FAVOR': 2}
+                            "PImPo": {'AGAINST': 0, 'NONE': 1, 'FAVOR': 0},
+                            # "PImPo": {'AGAINST': 0, 'NONE': 1, 'FAVOR': 2}
                     }[params.dataset_name]
         self.id2stance = {v: k for k,v in self.stance2id.items()}
         print(self.stance2id, "||", self.id2stance)

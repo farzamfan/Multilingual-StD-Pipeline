@@ -94,7 +94,7 @@ else:
     if params.dataset_name == "enc":
         target_names = [dataset_object.id2stance[id_] for id_ in range(0, 2)]
     elif params.dataset_name in ["16se", "mt1", "mt2","PImPo"]:
-        target_names = [dataset_object.id2stance[id_] for id_ in range(0, 3)]
+        target_names = [dataset_object.id2stance[id_] for id_ in range(0, 2)]
     else:
         target_names = [dataset_object.id2stance[id_] for id_ in range(0, 4)]
 
@@ -118,7 +118,7 @@ class BERTStance(nn.Module):
 if params.dataset_name == "enc":
     model = BERTStance(2)
 elif params.dataset_name in ["16se", "mt1", "mt2","PImPo"]:
-    model = BERTStance(3)
+    model = BERTStance(2)
 else:
     model = BERTStance(4)
 import os
