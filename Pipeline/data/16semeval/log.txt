@@ -1,0 +1,111 @@
+$ python3 train.py --dataset_name=16se --bert_type=vinai/bertweet-base  --batch_size=16 --lr=1e-5 --n_epochs=2
+++++++++++++++++++++++
+Target = True
+++++++++++++++++++++++
+{'AGAINST': 0, 'NONE': 1, 'FAVOR': 2} || {0: 'AGAINST', 1: 'NONE', 2: 'FAVOR'}
+Length of train, valid, test: 2186 728 1249
+Length of train, eval_set: 2914 1249
+Before shuffling train[0] =  train_1 | After shuffling train[0] =  train_966
+emoji is not installed, thus not converting emoticons or emojis into text. Please install emoji: pip3 install emoji
+Special tokens have been added in the vocabulary, make sure the associated word embedding are fine-tuned or trained.
+Loaded Bert Tokenizer
+/home/dsanyal/anaconda3/envs/pytorch/lib/python3.8/site-packages/transformers/tokenization_utils_base.py:2016: FutureWarning: The `pad_to_max_length` argument is deprecated and will be removed in a future version, use `padding=True` or `padding='longest'` to pad to the longest sequence in the batch, or use `padding='max_length'` to pad to a max length. In this case, you can give a specific length with `max_length` (e.g. `max_length=45`) or leave max_length to None to pad to the maximal input size of the model (e.g. 512 for Bert).
+  warnings.warn(
+Train_dataset: num_batches= 183  | num_data= 2914
+48
+Eval_dataset: num_batches= 79  | num_data= 1249
+48
+Dataset created
+Sat Oct  2 19:57:41 2021       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 418.87.01    Driver Version: 418.87.01    CUDA Version: 10.1     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|===============================+======================+======================|
+|   0  Tesla P100-PCIE...  Off  | 00000000:04:00.0 Off |                    0 |
+| N/A   42C    P0    31W / 250W |    739MiB / 16280MiB |      0%      Default |
++-------------------------------+----------------------+----------------------+
+|   1  Tesla P100-PCIE...  Off  | 00000000:82:00.0 Off |                    0 |
+| N/A   32C    P0    26W / 250W |     10MiB / 16280MiB |      0%      Default |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+|=============================================================================|
+|    0      6550      C   python3                                      729MiB |
++-----------------------------------------------------------------------------+
+Model created
+Sat Oct  2 19:57:48 2021       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 418.87.01    Driver Version: 418.87.01    CUDA Version: 10.1     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|===============================+======================+======================|
+|   0  Tesla P100-PCIE...  Off  | 00000000:04:00.0 Off |                    0 |
+| N/A   42C    P0    32W / 250W |    739MiB / 16280MiB |      0%      Default |
++-------------------------------+----------------------+----------------------+
+|   1  Tesla P100-PCIE...  Off  | 00000000:82:00.0 Off |                    0 |
+| N/A   32C    P0    26W / 250W |     10MiB / 16280MiB |      0%      Default |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+|=============================================================================|
+|    0      6550      C   python3                                      729MiB |
++-----------------------------------------------------------------------------+
+Embedding Shape: torch.Size([64004, 768])
+134904579
+Detected 2 GPUs!
+
+
+========= Beginning 1 epoch ==========
+Train loss at 0: 17.4005069732666
+Train loss at 100: 14.341757774353027
+EVALUATING:
+Valid_loss 12.757570043394837
+[[657  53   5]
+ [138  90   2]
+ [163 132   9]]
+AGAINST F1-score: 0.785415421398685
+NONE F1-score: 0.3564356435643564
+FAVOR F1-score: 0.056249999999999994
+Accu: 0.6052842273819056
+F1-Weighted 0.5289449354042127
+F1-Avg 0.3993670216543472
+[0/2]     train_loss: 15.35494 valid_loss: 12.75757
+
+
+========= Beginning 2 epoch ==========
+Train loss at 0: 12.73802375793457
+Train loss at 100: 10.03421401977539
+EVALUATING:
+Valid_loss 10.835060425197021
+[[548  72  95]
+ [ 78 133  19]
+ [ 83  32 189]]
+AGAINST F1-score: 0.7696629213483146
+NONE F1-score: 0.569593147751606
+FAVOR F1-score: 0.6227347611202636
+Accu: 0.6965572457966374
+F1-Weighted 0.6970590713590668
+F1-Avg 0.6539969434067281
+[1/2]     train_loss: 11.55698 valid_loss: 10.83506
+/home/dsanyal/bias-stance/saves/16se_target
+Traceback (most recent call last):
+  File "train.py", line 196, in <module>
+    os.mkdir(folder_name)
+FileNotFoundError: [Errno 2] No such file or directory: '<Edited>/bias-stance/saves/16se_target'
+
+
+
+#######################
+
+A few things.
+Make sure your hugging face version is the one mentioned in our repo: pip install transformers==3.5.0
+After processing the data.json into the correct format, I got 0.654 F1 after just two epochs on the test set. I am attaching the data.json in the valid format and the logs obtained. Note that the error in the last line (of the log.txt file attached) occurs because you need to create a folder at the specified location so that the model can save the trained weights, hyperparams, predictions etc.
+The dev set performance is expected to be lower; I got around the same number as you, though I did not experiment beyond three epochs. This low performance is because the training data is only 75% when validating the model, which is significant for such a small dataset. During testing, the model uses the entire training dataset.
+Let me know if you have any questions.
