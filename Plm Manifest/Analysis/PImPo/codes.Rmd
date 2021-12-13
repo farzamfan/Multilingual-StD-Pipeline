@@ -57,7 +57,7 @@ pie(table(data$stance),main = "stance distribution - whole dataset")
 ```
 
 ```{r}
-toExport <- data[,c("countryName","party","content","topic","stance")]
+toExport <- data[,c("countryName","party","content","topic","stance","date")]
 ```
 
 ```{r}
@@ -72,10 +72,10 @@ partyMapping <- cbind(parties,partyCodes)
 partyMapping<-unique(partyMapping)
 
 for (i in partyMapping[,2]){
-  toExport[toExport$party == i,6] <- partyMapping[partyMapping[,2]==i,1]
+  toExport[toExport$party == i,7] <- partyMapping[partyMapping[,2]==i,1]
 }
 
-colnames(toExport) <- c("country","partyCode","content","target","stance","party")
+colnames(toExport) <- c("country","partyCode","content","target","stance","date","party")
 ```
 
 ```{r}
@@ -87,8 +87,9 @@ toExport[toExport$stance=="Pro",5]="FAVOR"
 toExport[toExport$stance=="Against",5]="AGAINST"
 toExport[toExport$stance=="Neutral",5]="NONE"
 
-toExport <- select(toExport, country, party, content, target, stance)
+toExport <- select(toExport, country, party, content, target, stance, date)
 ```
+
 ```{r}
 write.csv2(toExport,"PImPo.csv")
 ```
