@@ -12,33 +12,20 @@ MAX_LEN = 0
 
 basepath = "/".join(os.path.realpath(__file__).split('/')[:-1])
 
-
-FOLDER_NAME = {"16se" : "16semeval",
-                "wtwt": "wtwt",
-                "enc" : "encryption",
-                "17re": "17rumoureval",
-                "19re": "19rumoureval",
-                "mt1" : "mt",
-                "mt2" : "mt",
-                "PImPo":"PImPo"
-            }[params.dataset_name]
+FOLDER_NAME = {"16se": "16semeval",
+               "PImPo": "PImPo"
+               }[params.dataset_name]
 
 DATA_PATH = os.path.join(basepath, 'data', FOLDER_NAME, params.dataset_path, 'data.json')
 
 
 class StanceDataset:
     def __init__(self):
-        self.stance2id =  { "16se": {'AGAINST': 0, 'NONE':      1, 'FAVOR':   2},
-                            "wtwt": {'comment': 0, 'unrelated': 1, 'support': 2, 'refute': 3},
-                            "enc":  {'FOR':     0, 'NEUTRAL':   1},
-                            "17re": {'deny':    0, 'support':   1, 'comment': 2, 'query':  3},
-                            "19re": {'deny':    0, 'support':   1, 'comment': 2, 'query':  3},
-                            "mt1":  {'AGAINST': 0, 'NONE':      1, 'FAVOR':   2},
-                            "mt2":  {'AGAINST': 0, 'NONE':      1, 'FAVOR':   2},
-                            "PImPo": {'AGAINST': 0, 'NONE': 1, 'FAVOR': 0},
-                            # "PImPo": {'AGAINST': 0, 'NONE': 1, 'FAVOR': 2}
-                    }[params.dataset_name]
-        self.id2stance = {v: k for k,v in self.stance2id.items()}
+        self.stance2id = {"16se": {'AGAINST': 0, 'NONE': 1, 'FAVOR': 2},
+                          "PImPo": {'AGAINST': 0, 'NONE': 1, 'FAVOR': 2}
+                          }[params.dataset_name]
+
+        self.id2stance = {v: k for k, v in self.stance2id.items()}
         print(self.stance2id, "||", self.id2stance)
 
         train, eval_set = self.load_dataset(DATA_PATH)
@@ -47,17 +34,18 @@ class StanceDataset:
             self.bert_tokenizer = AutoTokenizer.from_pretrained(params.bert_type, normalization=True)
         else:
             self.bert_tokenizer = AutoTokenizer.from_pretrained(params.bert_type)
+
         new_special_tokens_dict = {"additional_special_tokens": ["<number>", "<money>", "<user>"]}
         self.bert_tokenizer.add_special_tokens(new_special_tokens_dict)
         print("Loaded Bert Tokenizer")
 
-        if params.dummy_run == True:
+        if params.dummy_run:
             self.train_dataset, self.criterion_weights = self.batched_dataset([train[0]] * 2)
             self.eval_dataset, _ = self.batched_dataset([train[0]] * 2)
         else:
-            print("Train_dataset:", end= " ")
+            print("Train_dataset:", end=" ")
             self.train_dataset, self.criterion_weights = self.batched_dataset(train)
-            print("Eval_dataset:", end= " ")
+            print("Eval_dataset:", end=" ")
             self.eval_dataset, _ = self.batched_dataset(eval_set)
 
         # self.criterion_weights = torch.tensor(self.criterion_weights.tolist()).to(params.device)
@@ -73,7 +61,8 @@ class StanceDataset:
         elif valid_num == 0:
             train, valid = train[split:], train[:split]
         else:
-            train, valid = train[:(split * valid_num)] + train[(split * (valid_num+1)):],   train[(split * valid_num):(split * (valid_num+1))]
+            train, valid = train[:(split * valid_num)] + train[(split * (valid_num + 1)):], train[(split * valid_num):(
+                        split * (valid_num + 1))]
         return train, valid
 
     def load_dataset(self, path):
@@ -128,14 +117,14 @@ class StanceDataset:
 
         return train, eval_set
 
-    def batched_dataset(self, unbatched): # For batching full or a part of dataset.
+    def batched_dataset(self, unbatched):  # For batching full or a part of dataset.
         dataset = []
         if params.dataset_name == "enc":
-            criterion_weights = np.zeros(2) + 0.0000001 # 2 labels
-        elif params.dataset_name in ["16se", "mt1", "mt2", "PImPo"]:
-            criterion_weights = np.zeros(3) + 0.0000001 # 3 labels
+            criterion_weights = np.zeros(2) + 0.0000001  # 2 labels
+        elif params.dataset_name in ["16se", "PImPo"]:
+            criterion_weights = np.zeros(3) + 0.0000001  # 3 labels
         else:
-            criterion_weights = np.zeros(4) + 0.0000001 # 4 labels
+            criterion_weights = np.zeros(4) + 0.0000001  # 4 labels
 
         idx = 0
         num_data = len(unbatched)
@@ -144,7 +133,7 @@ class StanceDataset:
             batch_text = []
             stances = []
 
-            for single_tweet in unbatched[idx:min(idx+params.batch_size, num_data)]:
+            for single_tweet in unbatched[idx:min(idx + params.batch_size, num_data)]:
                 if params.dataset_name == "mt1":
                     this_stance_ids = self.stance2id[single_tweet["stance"][0]]
                 elif params.dataset_name == "mt2":
@@ -168,7 +157,7 @@ class StanceDataset:
                 batch_text.append([this_tweet, this_target])
 
             tokenized_batch = self.bert_tokenizer.batch_encode_plus(batch_text, padding='longest',
-                                                                return_tensors="pt", return_token_type_ids=True)
+                                                                    return_tensors="pt", return_token_type_ids=True)
 
             texts = tokenized_batch['input_ids'].to(params.device)
             stances = torch.LongTensor(stances).to(params.device)
@@ -183,26 +172,28 @@ class StanceDataset:
 
             b = params.batch_size if (idx + params.batch_size) < num_data else (num_data - idx)
             l = texts.size(1)
-            assert texts.size() == torch.Size([b, l]) # Maxlen = 63 + 2 for CLS and SEP
+            assert texts.size() == torch.Size([b, l])  # Maxlen = 63 + 2 for CLS and SEP
             assert stances.size() == torch.Size([b])
-            assert pad_masks.size() == torch.Size([b, l]) # Maxlen = 63 + 2 for CLS and SEP
-            assert segment_embed.size() == torch.Size([b, l]) # Maxlen = 63 + 2 for CLS and SEP
+            assert pad_masks.size() == torch.Size([b, l])  # Maxlen = 63 + 2 for CLS and SEP
+            assert segment_embed.size() == torch.Size([b, l])  # Maxlen = 63 + 2 for CLS and SEP
 
             dataset.append((texts, stances, pad_masks, segment_embed))
             idx += params.batch_size
 
         print("num_batches=", len(dataset), " | num_data=", num_data)
-        criterion_weights = np.sum(criterion_weights)/criterion_weights
-        print("MAX_LEN: ",MAX_LEN)
-        return dataset, criterion_weights/np.sum(criterion_weights)
+        criterion_weights = np.sum(criterion_weights) / criterion_weights
+        print("MAX_LEN: ", MAX_LEN)
+        return dataset, criterion_weights / np.sum(criterion_weights)
+
 
 if __name__ == "__main__":
     dataset = StanceDataset()
     print("Train_dataset Size =", len(dataset.train_dataset),
-            "Eval_dataset Size =", len(dataset.eval_dataset))
+          "Eval_dataset Size =", len(dataset.eval_dataset))
     # print(len(dataset.train_dataset))#[0])
     # print(dataset.train_dataset[-1])
     # print(len(dataset.hard_dataset))
     import os
+
     os.system("nvidia-smi")
     print(MAX_LEN)
